@@ -1,0 +1,14 @@
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.exe.config
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.exe
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.pdb
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\Guna.UI2.dll
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.AED00803.Up2Date
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.exe
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.pdb
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.FormLoging.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FormCrearCuenta.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.forms_cuestionarios.FormInicialCuestionario1.resources
