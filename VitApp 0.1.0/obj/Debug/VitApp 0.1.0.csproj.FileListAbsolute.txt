@@ -12,3 +12,16 @@ C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.pdb
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.FormLoging.resources
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FormCrearCuenta.resources
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.forms_cuestionarios.FormInicialCuestionario1.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.dll
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.pdb
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.xml
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.forms_cuestionarios.FormEstadoFisico.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.PantallaPrincipal.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmDietas.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmProgress.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmRecomendation.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmRoutine.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FrmSesion.resources

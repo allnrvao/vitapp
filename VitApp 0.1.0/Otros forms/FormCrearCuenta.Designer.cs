@@ -50,6 +50,7 @@
             this.DtpFechNac = new Guna.UI2.WinForms.Guna2DateTimePicker();
             this.label7 = new System.Windows.Forms.Label();
             this.BtnSiguiente = new Guna.UI2.WinForms.Guna2TileButton();
+            this.label8 = new System.Windows.Forms.Label();
             this.guna2ContextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -110,7 +111,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(63, 96);
+            this.label1.Location = new System.Drawing.Point(94, 103);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(91, 24);
             this.label1.TabIndex = 4;
@@ -121,7 +122,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(142)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
-            this.label2.Location = new System.Drawing.Point(62, 166);
+            this.label2.Location = new System.Drawing.Point(93, 173);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(92, 24);
             this.label2.TabIndex = 5;
@@ -132,17 +133,17 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(142)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
-            this.label3.Location = new System.Drawing.Point(89, 234);
+            this.label3.Location = new System.Drawing.Point(102, 251);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(65, 24);
+            this.label3.Size = new System.Drawing.Size(83, 24);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Edad:";
+            this.label3.Text = "Celular:";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(168, 300);
+            this.label4.Location = new System.Drawing.Point(199, 307);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(212, 24);
             this.label4.TabIndex = 7;
@@ -152,7 +153,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(28, 410);
+            this.label5.Location = new System.Drawing.Point(59, 417);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(126, 24);
             this.label5.TabIndex = 8;
@@ -186,7 +187,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
-            this.label6.Location = new System.Drawing.Point(59, 475);
+            this.label6.Location = new System.Drawing.Point(90, 482);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(95, 24);
             this.label6.TabIndex = 10;
@@ -209,7 +210,7 @@
             this.TbNombre.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.TbNombre.ForeColor = System.Drawing.Color.Transparent;
             this.TbNombre.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.TbNombre.Location = new System.Drawing.Point(161, 96);
+            this.TbNombre.Location = new System.Drawing.Point(192, 103);
             this.TbNombre.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TbNombre.Name = "TbNombre";
             this.TbNombre.PasswordChar = '\0';
@@ -234,7 +235,7 @@
             this.TbVerificarContra.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.TbVerificarContra.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.TbVerificarContra.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.TbVerificarContra.Location = new System.Drawing.Point(161, 475);
+            this.TbVerificarContra.Location = new System.Drawing.Point(192, 482);
             this.TbVerificarContra.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TbVerificarContra.Name = "TbVerificarContra";
             this.TbVerificarContra.PasswordChar = '\0';
@@ -258,7 +259,7 @@
             this.TbApellido.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.TbApellido.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.TbApellido.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.TbApellido.Location = new System.Drawing.Point(161, 166);
+            this.TbApellido.Location = new System.Drawing.Point(192, 173);
             this.TbApellido.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TbApellido.Name = "TbApellido";
             this.TbApellido.PasswordChar = '\0';
@@ -282,7 +283,7 @@
             this.TbEdad.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.TbEdad.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.TbEdad.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.TbEdad.Location = new System.Drawing.Point(161, 234);
+            this.TbEdad.Location = new System.Drawing.Point(192, 241);
             this.TbEdad.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TbEdad.Name = "TbEdad";
             this.TbEdad.PasswordChar = '\0';
@@ -306,7 +307,7 @@
             this.TbContraseña.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.TbContraseña.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.TbContraseña.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.TbContraseña.Location = new System.Drawing.Point(161, 400);
+            this.TbContraseña.Location = new System.Drawing.Point(192, 407);
             this.TbContraseña.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.TbContraseña.Name = "TbContraseña";
             this.TbContraseña.PasswordChar = '\0';
@@ -325,7 +326,7 @@
             this.DtpFechNac.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.DtpFechNac.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
             this.DtpFechNac.Format = System.Windows.Forms.DateTimePickerFormat.Long;
-            this.DtpFechNac.Location = new System.Drawing.Point(93, 336);
+            this.DtpFechNac.Location = new System.Drawing.Point(124, 343);
             this.DtpFechNac.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.DtpFechNac.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.DtpFechNac.Name = "DtpFechNac";
@@ -338,7 +339,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Arial", 25F, System.Drawing.FontStyle.Bold);
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(149)))), ((int)(((byte)(127)))));
-            this.label7.Location = new System.Drawing.Point(57, 12);
+            this.label7.Location = new System.Drawing.Point(140, 13);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(419, 59);
             this.label7.TabIndex = 17;
@@ -359,12 +360,23 @@
             this.BtnSiguiente.TabIndex = 18;
             this.BtnSiguiente.Text = "Siguiente";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(164)))), ((int)(((byte)(148)))));
+            this.label8.Location = new System.Drawing.Point(12, 13);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(86, 28);
+            this.label8.TabIndex = 19;
+            this.label8.Text = "VitApp";
+            // 
             // FormCrearCuenta
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.ClientSize = new System.Drawing.Size(800, 613);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.BtnSiguiente);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.DtpFechNac);
@@ -387,6 +399,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormCrearCuenta";
             this.Text = "FormCrearCuenta";
+            this.Load += new System.EventHandler(this.FormCrearCuenta_Load);
             this.guna2ContextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -416,5 +429,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private Guna.UI2.WinForms.Guna2TileButton BtnSiguiente;
+        private System.Windows.Forms.Label label8;
     }
 }

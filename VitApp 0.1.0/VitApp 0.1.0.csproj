@@ -33,14 +33,26 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ExcelDataReader, Version=3.7.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>packages\ExcelDataReader.3.7.0\lib\net462\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.7.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>packages\ExcelDataReader.DataSet.3.7.0\lib\net462\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
     <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
       <HintPath>packages\Guna.UI2.WinForms.2.0.4.6\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
+    <Reference Include="System.IO.Compression" />
     <Reference Include="System.Management" />
     <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -53,11 +65,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\Usuario.cs" />
-    <Compile Include="FormIniciarSesión.cs">
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmIniciarSe.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormIniciarSesión.Designer.cs">
-      <DependentUpon>FormIniciarSesión.cs</DependentUpon>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmIniciarSe.Designer.cs">
+      <DependentUpon>FrmIniciarSe.cs</DependentUpon>
     </Compile>
     <Compile Include="Otros forms\FormCrearCuenta.cs">
       <SubType>Form</SubType>
@@ -65,22 +77,85 @@
     <Compile Include="Otros forms\FormCrearCuenta.Designer.cs">
       <DependentUpon>FormCrearCuenta.cs</DependentUpon>
     </Compile>
+    <Compile Include="Otros forms\forms cuestionarios\FormEstadoFisico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros forms\forms cuestionarios\FormEstadoFisico.Designer.cs">
+      <DependentUpon>FormEstadoFisico.cs</DependentUpon>
+    </Compile>
     <Compile Include="Otros forms\forms cuestionarios\FormInicialCuestionario1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Otros forms\forms cuestionarios\FormInicialCuestionario1.Designer.cs">
       <DependentUpon>FormInicialCuestionario1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmDietas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmDietas.Designer.cs">
+      <DependentUpon>FrmDietas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmProgress.Designer.cs">
+      <DependentUpon>FrmProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmRecomendation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmRecomendation.Designer.cs">
+      <DependentUpon>FrmRecomendation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmRoutine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros forms\Forms Pantalla principal\FrmRoutine.Designer.cs">
+      <DependentUpon>FrmRoutine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros forms\FrmSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros forms\FrmSesion.Designer.cs">
+      <DependentUpon>FrmSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros forms\PantallaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros forms\PantallaPrincipal.Designer.cs">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormIniciarSesión.resx">
-      <DependentUpon>FormIniciarSesión.cs</DependentUpon>
+    <EmbeddedResource Include="Otros forms\Forms Pantalla principal\FrmIniciarSe.resx">
+      <DependentUpon>FrmIniciarSe.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Otros forms\FormCrearCuenta.resx">
       <DependentUpon>FormCrearCuenta.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Otros forms\forms cuestionarios\FormEstadoFisico.resx">
+      <DependentUpon>FormEstadoFisico.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Otros forms\forms cuestionarios\FormInicialCuestionario1.resx">
       <DependentUpon>FormInicialCuestionario1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros forms\Forms Pantalla principal\FrmDietas.resx">
+      <DependentUpon>FrmDietas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros forms\Forms Pantalla principal\FrmProgress.resx">
+      <DependentUpon>FrmProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros forms\Forms Pantalla principal\FrmRecomendation.resx">
+      <DependentUpon>FrmRecomendation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros forms\Forms Pantalla principal\FrmRoutine.resx">
+      <DependentUpon>FrmRoutine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros forms\FrmSesion.resx">
+      <DependentUpon>FrmSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros forms\PantallaPrincipal.resx">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

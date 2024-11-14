@@ -36,5 +36,14 @@ namespace VitApp_0._1._0.Otros_forms.forms_cuestionarios
         {
 
         }
+
+        private void guna2TileButton2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void guna2TileButton1_Click(object sender, EventArgs e)
+        {
+                   }
     }
 }

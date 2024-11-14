@@ -29,5 +29,11 @@ namespace VitApp_0._1._0
            FormCrearCuenta crearCuenta = new FormCrearCuenta();
             crearCuenta.ShowDialog();
         }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            PantallaPrincipal pantallaPrincipal = new PantallaPrincipal();
+            pantallaPrincipal.ShowDialog();
+        }
     }
 }

@@ -49,6 +49,7 @@
             this.guna2RadioButton2 = new Guna.UI2.WinForms.Guna2RadioButton();
             this.guna2RadioButton3 = new Guna.UI2.WinForms.Guna2RadioButton();
             this.guna2RadioButton4 = new Guna.UI2.WinForms.Guna2RadioButton();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // guna2BorderlessForm1
@@ -63,7 +64,7 @@
             this.guna2ControlBox1.CustomClick = true;
             this.guna2ControlBox1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox1.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox1.Location = new System.Drawing.Point(743, 12);
+            this.guna2ControlBox1.Location = new System.Drawing.Point(747, 12);
             this.guna2ControlBox1.Name = "guna2ControlBox1";
             this.guna2ControlBox1.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox1.TabIndex = 0;
@@ -74,7 +75,7 @@
             this.guna2ControlBox2.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MaximizeBox;
             this.guna2ControlBox2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox2.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox2.Location = new System.Drawing.Point(683, 12);
+            this.guna2ControlBox2.Location = new System.Drawing.Point(687, 12);
             this.guna2ControlBox2.Name = "guna2ControlBox2";
             this.guna2ControlBox2.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox2.TabIndex = 1;
@@ -85,7 +86,7 @@
             this.guna2ControlBox3.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
             this.guna2ControlBox3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox3.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox3.Location = new System.Drawing.Point(621, 12);
+            this.guna2ControlBox3.Location = new System.Drawing.Point(625, 12);
             this.guna2ControlBox3.Name = "guna2ControlBox3";
             this.guna2ControlBox3.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox3.TabIndex = 2;
@@ -95,7 +96,7 @@
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Arial", 15F, System.Drawing.FontStyle.Bold);
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(149)))), ((int)(((byte)(127)))));
-            this.label7.Location = new System.Drawing.Point(30, 26);
+            this.label7.Location = new System.Drawing.Point(192, 26);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(366, 35);
             this.label7.TabIndex = 18;
@@ -134,6 +135,7 @@
             this.guna2TileButton2.Size = new System.Drawing.Size(112, 36);
             this.guna2TileButton2.TabIndex = 22;
             this.guna2TileButton2.Text = "Siguiente";
+            this.guna2TileButton2.Click += new System.EventHandler(this.guna2TileButton2_Click);
             // 
             // guna2TileButton1
             // 
@@ -149,6 +151,7 @@
             this.guna2TileButton1.Size = new System.Drawing.Size(112, 36);
             this.guna2TileButton1.TabIndex = 23;
             this.guna2TileButton1.Text = "Atrás";
+            this.guna2TileButton1.Click += new System.EventHandler(this.guna2TileButton1_Click);
             // 
             // guna2CheckBox4
             // 
@@ -224,7 +227,7 @@
             // 
             // guna2TrackBar1
             // 
-            this.guna2TrackBar1.Location = new System.Drawing.Point(36, 196);
+            this.guna2TrackBar1.Location = new System.Drawing.Point(37, 196);
             this.guna2TrackBar1.Name = "guna2TrackBar1";
             this.guna2TrackBar1.Size = new System.Drawing.Size(300, 23);
             this.guna2TrackBar1.TabIndex = 27;
@@ -331,12 +334,23 @@
             this.guna2RadioButton4.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
             this.guna2RadioButton4.CheckedChanged += new System.EventHandler(this.guna2RadioButton4_CheckedChanged);
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(164)))), ((int)(((byte)(148)))));
+            this.label4.Location = new System.Drawing.Point(12, 12);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(86, 28);
+            this.label4.TabIndex = 38;
+            this.label4.Text = "VitApp";
+            // 
             // FormInicialCuestionario1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(804, 458);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.guna2RadioButton4);
             this.Controls.Add(this.guna2RadioButton3);
             this.Controls.Add(this.guna2RadioButton2);
@@ -387,5 +401,6 @@
         private Guna.UI2.WinForms.Guna2RadioButton guna2RadioButton4;
         private Guna.UI2.WinForms.Guna2RadioButton guna2RadioButton3;
         private Guna.UI2.WinForms.Guna2RadioButton guna2RadioButton2;
+        private System.Windows.Forms.Label label4;
     }
 }
