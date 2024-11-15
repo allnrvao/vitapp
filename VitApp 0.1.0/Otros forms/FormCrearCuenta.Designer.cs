@@ -113,7 +113,7 @@
             this.label1.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(94, 103);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(91, 24);
+            this.label1.Size = new System.Drawing.Size(77, 19);
             this.label1.TabIndex = 4;
             this.label1.Text = "Nombre:";
             // 
@@ -124,7 +124,7 @@
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(142)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
             this.label2.Location = new System.Drawing.Point(93, 173);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(92, 24);
+            this.label2.Size = new System.Drawing.Size(77, 19);
             this.label2.TabIndex = 5;
             this.label2.Text = "Apellido:";
             // 
@@ -135,7 +135,7 @@
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(142)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
             this.label3.Location = new System.Drawing.Point(102, 251);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(83, 24);
+            this.label3.Size = new System.Drawing.Size(70, 19);
             this.label3.TabIndex = 6;
             this.label3.Text = "Celular:";
             // 
@@ -143,9 +143,9 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(199, 307);
+            this.label4.Location = new System.Drawing.Point(231, 306);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(212, 24);
+            this.label4.Size = new System.Drawing.Size(176, 19);
             this.label4.TabIndex = 7;
             this.label4.Text = "Fecha de nacimiento:";
             // 
@@ -155,7 +155,7 @@
             this.label5.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
             this.label5.Location = new System.Drawing.Point(59, 417);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(126, 24);
+            this.label5.Size = new System.Drawing.Size(106, 19);
             this.label5.TabIndex = 8;
             this.label5.Text = "Contraseña:";
             this.label5.Click += new System.EventHandler(this.label5_Click);
@@ -175,12 +175,12 @@
             this.guna2ContextMenuStrip1.RenderStyle.SelectionForeColor = System.Drawing.Color.White;
             this.guna2ContextMenuStrip1.RenderStyle.SeparatorColor = System.Drawing.Color.Gainsboro;
             this.guna2ContextMenuStrip1.RenderStyle.TextRenderingHint = System.Drawing.Text.TextRenderingHint.SystemDefault;
-            this.guna2ContextMenuStrip1.Size = new System.Drawing.Size(119, 36);
+            this.guna2ContextMenuStrip1.Size = new System.Drawing.Size(108, 28);
             // 
             // holaToolStripMenuItem
             // 
             this.holaToolStripMenuItem.Name = "holaToolStripMenuItem";
-            this.holaToolStripMenuItem.Size = new System.Drawing.Size(118, 32);
+            this.holaToolStripMenuItem.Size = new System.Drawing.Size(107, 24);
             this.holaToolStripMenuItem.Text = "hola";
             // 
             // label6
@@ -189,7 +189,7 @@
             this.label6.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
             this.label6.Location = new System.Drawing.Point(90, 482);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(95, 24);
+            this.label6.Size = new System.Drawing.Size(79, 19);
             this.label6.TabIndex = 10;
             this.label6.Text = "Verificar:";
             // 
@@ -243,6 +243,7 @@
             this.TbVerificarContra.SelectedText = "";
             this.TbVerificarContra.Size = new System.Drawing.Size(286, 34);
             this.TbVerificarContra.TabIndex = 12;
+            this.TbVerificarContra.TextChanged += new System.EventHandler(this.TbVerificarContra_TextChanged);
             // 
             // TbApellido
             // 
@@ -322,17 +323,18 @@
             this.DtpFechNac.AutoRoundedCorners = true;
             this.DtpFechNac.BorderRadius = 17;
             this.DtpFechNac.Checked = true;
-            this.DtpFechNac.FillColor = System.Drawing.Color.Transparent;
+            this.DtpFechNac.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
             this.DtpFechNac.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.DtpFechNac.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
+            this.DtpFechNac.ForeColor = System.Drawing.Color.Black;
             this.DtpFechNac.Format = System.Windows.Forms.DateTimePickerFormat.Long;
-            this.DtpFechNac.Location = new System.Drawing.Point(124, 343);
+            this.DtpFechNac.Location = new System.Drawing.Point(149, 340);
             this.DtpFechNac.MaxDate = new System.DateTime(9998, 12, 31, 0, 0, 0, 0);
             this.DtpFechNac.MinDate = new System.DateTime(1753, 1, 1, 0, 0, 0, 0);
             this.DtpFechNac.Name = "DtpFechNac";
             this.DtpFechNac.Size = new System.Drawing.Size(354, 36);
             this.DtpFechNac.TabIndex = 16;
             this.DtpFechNac.Value = new System.DateTime(2024, 11, 6, 13, 51, 0, 144);
+            this.DtpFechNac.ValueChanged += new System.EventHandler(this.DtpFechNac_ValueChanged);
             // 
             // label7
             // 
@@ -341,7 +343,7 @@
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(149)))), ((int)(((byte)(127)))));
             this.label7.Location = new System.Drawing.Point(140, 13);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(419, 59);
+            this.label7.Size = new System.Drawing.Size(352, 49);
             this.label7.TabIndex = 17;
             this.label7.Text = "CREAR CUENTA";
             // 
@@ -354,11 +356,12 @@
             this.BtnSiguiente.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
             this.BtnSiguiente.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.BtnSiguiente.ForeColor = System.Drawing.Color.White;
-            this.BtnSiguiente.Location = new System.Drawing.Point(663, 561);
+            this.BtnSiguiente.Location = new System.Drawing.Point(666, 561);
             this.BtnSiguiente.Name = "BtnSiguiente";
             this.BtnSiguiente.Size = new System.Drawing.Size(112, 36);
             this.BtnSiguiente.TabIndex = 18;
             this.BtnSiguiente.Text = "Siguiente";
+            this.BtnSiguiente.Click += new System.EventHandler(this.BtnSiguiente_Click);
             // 
             // label8
             // 
@@ -367,7 +370,7 @@
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(164)))), ((int)(((byte)(148)))));
             this.label8.Location = new System.Drawing.Point(12, 13);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(86, 28);
+            this.label8.Size = new System.Drawing.Size(72, 24);
             this.label8.TabIndex = 19;
             this.label8.Text = "VitApp";
             // 
@@ -398,7 +401,9 @@
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(142)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormCrearCuenta";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "FormCrearCuenta";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FormCrearCuenta_Load);
             this.guna2ContextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);

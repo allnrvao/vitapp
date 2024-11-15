@@ -64,6 +64,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\RegistroUsuarios.cs" />
     <Compile Include="Clases\Usuario.cs" />
     <Compile Include="Otros forms\Forms Pantalla principal\FrmIniciarSe.cs">
       <SubType>Form</SubType>
