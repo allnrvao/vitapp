@@ -1,0 +1,34 @@
+#ID1
+Desayuno: Gallo pinto con huevo, queso fresco y café
+Almuerzo: Sopa de pollo con verduras y arroz blanco
+Cena: Ensalada mixta con frijoles y plátano maduro
+
+#ID2
+Desayuno: Tostadas con frijoles molidos y aguacate
+Almuerzo: Enchiladas nicaragüenses con ensalada
+Cena: Tortilla con queso y guacamole
+
+#ID3
+Desayuno: Panqueques de banano y un vaso de leche
+Almuerzo: Arroz con pollo y ensalada de repollo
+Cena: Tajadas de plátano con queso fresco y ensalada
+
+#ID4
+Desayuno: Avena con frutas y café
+Almuerzo: Bistec encebollado con arroz y tajadas de plátano
+Cena: Sopa de frijoles con huevo cocido
+
+#ID5
+Desayuno: Tortillas con queso y crema
+Almuerzo: Arroz a la valenciana y ensalada de lechuga
+Cena: Sándwich de pollo con vegetales
+
+#ID6
+Desayuno: Yogurt con granola y frutas frescas
+Almuerzo: Ensalada César con pollo a la parrilla
+Cena: Quesillo nicaragüense con tortilla y crema
+
+#ID7
+Desayuno: Gallo pinto con plátano maduro y café
+Almuerzo: Filete de pescado con arroz y ensalada
+Cena: Tortillas con frijoles molidos y ensalada fresca

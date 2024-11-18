@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal;
 
 namespace VitApp_0._1._0
 {
@@ -16,7 +17,7 @@ namespace VitApp_0._1._0
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormLoging());
+            Application.Run(new FrmDietas());
         }
     }
 }

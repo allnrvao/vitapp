@@ -42,15 +42,10 @@
             this.label8 = new System.Windows.Forms.Label();
             this.guna2GradientTileButton3 = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.guna2CheckBox1 = new Guna.UI2.WinForms.Guna2CheckBox();
-            this.TabControlDieta = new Guna.UI2.WinForms.Guna2TabControl();
-            this.Lunes = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.tabPage6 = new System.Windows.Forms.TabPage();
-            this.tabPage7 = new System.Windows.Forms.TabPage();
-            this.TabControlDieta.SuspendLayout();
+            this.ComboBoxDias = new Guna.UI2.WinForms.Guna2ComboBox();
+            this.listBoxComidas = new System.Windows.Forms.ListBox();
+            this.btnDiaCompletado = new Guna.UI2.WinForms.Guna2Button();
+            this.comboxnivel = new Guna.UI2.WinForms.Guna2ComboBox();
             this.SuspendLayout();
             // 
             // guna2BorderlessForm1
@@ -70,10 +65,10 @@
             this.guna2GradientTileButton7.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.guna2GradientTileButton7.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold);
             this.guna2GradientTileButton7.ForeColor = System.Drawing.Color.White;
-            this.guna2GradientTileButton7.Location = new System.Drawing.Point(1, 338);
-            this.guna2GradientTileButton7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientTileButton7.Location = new System.Drawing.Point(1, 275);
+            this.guna2GradientTileButton7.Margin = new System.Windows.Forms.Padding(2);
             this.guna2GradientTileButton7.Name = "guna2GradientTileButton7";
-            this.guna2GradientTileButton7.Size = new System.Drawing.Size(181, 89);
+            this.guna2GradientTileButton7.Size = new System.Drawing.Size(136, 72);
             this.guna2GradientTileButton7.TabIndex = 69;
             this.guna2GradientTileButton7.Text = "Configuración";
             // 
@@ -88,10 +83,10 @@
             this.guna2GradientTileButton6.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.guna2GradientTileButton6.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold);
             this.guna2GradientTileButton6.ForeColor = System.Drawing.Color.White;
-            this.guna2GradientTileButton6.Location = new System.Drawing.Point(1, 252);
-            this.guna2GradientTileButton6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientTileButton6.Location = new System.Drawing.Point(1, 205);
+            this.guna2GradientTileButton6.Margin = new System.Windows.Forms.Padding(2);
             this.guna2GradientTileButton6.Name = "guna2GradientTileButton6";
-            this.guna2GradientTileButton6.Size = new System.Drawing.Size(181, 89);
+            this.guna2GradientTileButton6.Size = new System.Drawing.Size(136, 72);
             this.guna2GradientTileButton6.TabIndex = 68;
             this.guna2GradientTileButton6.Text = "progreso";
             // 
@@ -106,10 +101,10 @@
             this.guna2GradientTileButton5.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.guna2GradientTileButton5.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold);
             this.guna2GradientTileButton5.ForeColor = System.Drawing.Color.White;
-            this.guna2GradientTileButton5.Location = new System.Drawing.Point(1, 172);
-            this.guna2GradientTileButton5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientTileButton5.Location = new System.Drawing.Point(1, 140);
+            this.guna2GradientTileButton5.Margin = new System.Windows.Forms.Padding(2);
             this.guna2GradientTileButton5.Name = "guna2GradientTileButton5";
-            this.guna2GradientTileButton5.Size = new System.Drawing.Size(181, 89);
+            this.guna2GradientTileButton5.Size = new System.Drawing.Size(136, 72);
             this.guna2GradientTileButton5.TabIndex = 67;
             this.guna2GradientTileButton5.Text = "Rutinas";
             // 
@@ -119,10 +114,10 @@
             this.guna2ControlBox3.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
             this.guna2ControlBox3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox3.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox3.Location = new System.Drawing.Point(828, 10);
-            this.guna2ControlBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2ControlBox3.Location = new System.Drawing.Point(621, 8);
+            this.guna2ControlBox3.Margin = new System.Windows.Forms.Padding(2);
             this.guna2ControlBox3.Name = "guna2ControlBox3";
-            this.guna2ControlBox3.Size = new System.Drawing.Size(40, 23);
+            this.guna2ControlBox3.Size = new System.Drawing.Size(30, 19);
             this.guna2ControlBox3.TabIndex = 66;
             // 
             // guna2ControlBox2
@@ -131,10 +126,10 @@
             this.guna2ControlBox2.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MaximizeBox;
             this.guna2ControlBox2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox2.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox2.Location = new System.Drawing.Point(883, 10);
-            this.guna2ControlBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2ControlBox2.Location = new System.Drawing.Point(662, 8);
+            this.guna2ControlBox2.Margin = new System.Windows.Forms.Padding(2);
             this.guna2ControlBox2.Name = "guna2ControlBox2";
-            this.guna2ControlBox2.Size = new System.Drawing.Size(40, 23);
+            this.guna2ControlBox2.Size = new System.Drawing.Size(30, 19);
             this.guna2ControlBox2.TabIndex = 65;
             // 
             // guna2ControlBox1
@@ -142,10 +137,10 @@
             this.guna2ControlBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2ControlBox1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox1.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox1.Location = new System.Drawing.Point(936, 10);
-            this.guna2ControlBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2ControlBox1.Location = new System.Drawing.Point(702, 8);
+            this.guna2ControlBox1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2ControlBox1.Name = "guna2ControlBox1";
-            this.guna2ControlBox1.Size = new System.Drawing.Size(40, 23);
+            this.guna2ControlBox1.Size = new System.Drawing.Size(30, 19);
             this.guna2ControlBox1.TabIndex = 64;
             // 
             // label1
@@ -153,9 +148,10 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial Black", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(209, 58);
+            this.label1.Location = new System.Drawing.Point(157, 47);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(100, 33);
+            this.label1.Size = new System.Drawing.Size(79, 27);
             this.label1.TabIndex = 63;
             this.label1.Text = "Dietas";
             // 
@@ -170,10 +166,10 @@
             this.guna2GradientTileButton2.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.guna2GradientTileButton2.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold);
             this.guna2GradientTileButton2.ForeColor = System.Drawing.Color.White;
-            this.guna2GradientTileButton2.Location = new System.Drawing.Point(1, 424);
-            this.guna2GradientTileButton2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientTileButton2.Location = new System.Drawing.Point(1, 344);
+            this.guna2GradientTileButton2.Margin = new System.Windows.Forms.Padding(2);
             this.guna2GradientTileButton2.Name = "guna2GradientTileButton2";
-            this.guna2GradientTileButton2.Size = new System.Drawing.Size(181, 89);
+            this.guna2GradientTileButton2.Size = new System.Drawing.Size(136, 72);
             this.guna2GradientTileButton2.TabIndex = 61;
             this.guna2GradientTileButton2.Text = "Sesión";
             // 
@@ -189,9 +185,9 @@
             this.guna2GradientTileButton1.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold);
             this.guna2GradientTileButton1.ForeColor = System.Drawing.Color.White;
             this.guna2GradientTileButton1.Location = new System.Drawing.Point(1, 2);
-            this.guna2GradientTileButton1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientTileButton1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2GradientTileButton1.Name = "guna2GradientTileButton1";
-            this.guna2GradientTileButton1.Size = new System.Drawing.Size(181, 89);
+            this.guna2GradientTileButton1.Size = new System.Drawing.Size(136, 72);
             this.guna2GradientTileButton1.TabIndex = 60;
             this.guna2GradientTileButton1.Text = "Ver perfil";
             // 
@@ -200,9 +196,10 @@
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Arial Black", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(164)))), ((int)(((byte)(148)))));
-            this.label8.Location = new System.Drawing.Point(196, 13);
+            this.label8.Location = new System.Drawing.Point(147, 11);
+            this.label8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(72, 24);
+            this.label8.Size = new System.Drawing.Size(60, 19);
             this.label8.TabIndex = 59;
             this.label8.Text = "VitApp";
             // 
@@ -217,10 +214,10 @@
             this.guna2GradientTileButton3.FillColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.guna2GradientTileButton3.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
             this.guna2GradientTileButton3.ForeColor = System.Drawing.Color.White;
-            this.guna2GradientTileButton3.Location = new System.Drawing.Point(1, 87);
-            this.guna2GradientTileButton3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2GradientTileButton3.Location = new System.Drawing.Point(1, 71);
+            this.guna2GradientTileButton3.Margin = new System.Windows.Forms.Padding(2);
             this.guna2GradientTileButton3.Name = "guna2GradientTileButton3";
-            this.guna2GradientTileButton3.Size = new System.Drawing.Size(181, 89);
+            this.guna2GradientTileButton3.Size = new System.Drawing.Size(136, 72);
             this.guna2GradientTileButton3.TabIndex = 70;
             this.guna2GradientTileButton3.Text = "Recomendaciones";
             // 
@@ -233,10 +230,10 @@
             this.guna2CheckBox1.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
             this.guna2CheckBox1.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
             this.guna2CheckBox1.ForeColor = System.Drawing.Color.White;
-            this.guna2CheckBox1.Location = new System.Drawing.Point(215, 480);
-            this.guna2CheckBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.guna2CheckBox1.Location = new System.Drawing.Point(161, 390);
+            this.guna2CheckBox1.Margin = new System.Windows.Forms.Padding(2);
             this.guna2CheckBox1.Name = "guna2CheckBox1";
-            this.guna2CheckBox1.Size = new System.Drawing.Size(149, 23);
+            this.guna2CheckBox1.Size = new System.Drawing.Size(119, 19);
             this.guna2CheckBox1.TabIndex = 0;
             this.guna2CheckBox1.Text = "Día completado";
             this.guna2CheckBox1.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
@@ -244,118 +241,74 @@
             this.guna2CheckBox1.UncheckedState.BorderThickness = 0;
             this.guna2CheckBox1.UncheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             // 
-            // TabControlDieta
+            // ComboBoxDias
             // 
-            this.TabControlDieta.Alignment = System.Windows.Forms.TabAlignment.Left;
-            this.TabControlDieta.Controls.Add(this.Lunes);
-            this.TabControlDieta.Controls.Add(this.tabPage2);
-            this.TabControlDieta.Controls.Add(this.tabPage3);
-            this.TabControlDieta.Controls.Add(this.tabPage4);
-            this.TabControlDieta.Controls.Add(this.tabPage5);
-            this.TabControlDieta.Controls.Add(this.tabPage6);
-            this.TabControlDieta.Controls.Add(this.tabPage7);
-            this.TabControlDieta.ItemSize = new System.Drawing.Size(180, 40);
-            this.TabControlDieta.Location = new System.Drawing.Point(215, 142);
-            this.TabControlDieta.Name = "TabControlDieta";
-            this.TabControlDieta.SelectedIndex = 0;
-            this.TabControlDieta.Size = new System.Drawing.Size(723, 285);
-            this.TabControlDieta.TabButtonHoverState.BorderColor = System.Drawing.Color.Empty;
-            this.TabControlDieta.TabButtonHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(52)))), ((int)(((byte)(70)))));
-            this.TabControlDieta.TabButtonHoverState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
-            this.TabControlDieta.TabButtonHoverState.ForeColor = System.Drawing.Color.White;
-            this.TabControlDieta.TabButtonHoverState.InnerColor = System.Drawing.Color.FromArgb(((int)(((byte)(40)))), ((int)(((byte)(52)))), ((int)(((byte)(70)))));
-            this.TabControlDieta.TabButtonIdleState.BorderColor = System.Drawing.Color.Empty;
-            this.TabControlDieta.TabButtonIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(42)))), ((int)(((byte)(57)))));
-            this.TabControlDieta.TabButtonIdleState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
-            this.TabControlDieta.TabButtonIdleState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(156)))), ((int)(((byte)(160)))), ((int)(((byte)(167)))));
-            this.TabControlDieta.TabButtonIdleState.InnerColor = System.Drawing.Color.FromArgb(((int)(((byte)(33)))), ((int)(((byte)(42)))), ((int)(((byte)(57)))));
-            this.TabControlDieta.TabButtonSelectedState.BorderColor = System.Drawing.Color.Empty;
-            this.TabControlDieta.TabButtonSelectedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(29)))), ((int)(((byte)(37)))), ((int)(((byte)(49)))));
-            this.TabControlDieta.TabButtonSelectedState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
-            this.TabControlDieta.TabButtonSelectedState.ForeColor = System.Drawing.Color.White;
-            this.TabControlDieta.TabButtonSelectedState.InnerColor = System.Drawing.Color.FromArgb(((int)(((byte)(76)))), ((int)(((byte)(132)))), ((int)(((byte)(255)))));
-            this.TabControlDieta.TabButtonSize = new System.Drawing.Size(180, 40);
-            this.TabControlDieta.TabIndex = 1;
-            this.TabControlDieta.TabMenuBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(164)))), ((int)(((byte)(148)))));
+            this.ComboBoxDias.BackColor = System.Drawing.Color.Transparent;
+            this.ComboBoxDias.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.ComboBoxDias.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.ComboBoxDias.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.ComboBoxDias.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.ComboBoxDias.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.ComboBoxDias.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.ComboBoxDias.ItemHeight = 30;
+            this.ComboBoxDias.Location = new System.Drawing.Point(400, 91);
+            this.ComboBoxDias.Name = "ComboBoxDias";
+            this.ComboBoxDias.Size = new System.Drawing.Size(140, 36);
+            this.ComboBoxDias.TabIndex = 71;
+            this.ComboBoxDias.SelectedIndexChanged += new System.EventHandler(this.comboBoxDias_SelectedIndexChanged);
             // 
-            // Lunes
+            // listBoxComidas
             // 
-            this.Lunes.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(164)))), ((int)(((byte)(148)))));
-            this.Lunes.Location = new System.Drawing.Point(184, 4);
-            this.Lunes.Name = "Lunes";
-            this.Lunes.Padding = new System.Windows.Forms.Padding(3);
-            this.Lunes.Size = new System.Drawing.Size(535, 277);
-            this.Lunes.TabIndex = 0;
-            this.Lunes.Text = "Lunes";
+            this.listBoxComidas.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.listBoxComidas.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.listBoxComidas.FormattingEnabled = true;
+            this.listBoxComidas.Location = new System.Drawing.Point(199, 152);
+            this.listBoxComidas.Name = "listBoxComidas";
+            this.listBoxComidas.Size = new System.Drawing.Size(467, 95);
+            this.listBoxComidas.TabIndex = 72;
             // 
-            // tabPage2
+            // btnDiaCompletado
             // 
-            this.tabPage2.Location = new System.Drawing.Point(184, 4);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(535, 277);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Martes";
-            this.tabPage2.UseVisualStyleBackColor = true;
+            this.btnDiaCompletado.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnDiaCompletado.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnDiaCompletado.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnDiaCompletado.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnDiaCompletado.FillColor = System.Drawing.Color.DarkSeaGreen;
+            this.btnDiaCompletado.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnDiaCompletado.ForeColor = System.Drawing.Color.White;
+            this.btnDiaCompletado.Location = new System.Drawing.Point(590, 253);
+            this.btnDiaCompletado.Name = "btnDiaCompletado";
+            this.btnDiaCompletado.Size = new System.Drawing.Size(102, 33);
+            this.btnDiaCompletado.TabIndex = 73;
+            this.btnDiaCompletado.Text = "Completado";
+            this.btnDiaCompletado.Click += new System.EventHandler(this.btnDiaCompletado_Click);
             // 
-            // tabPage3
+            // comboxnivel
             // 
-            this.tabPage3.Location = new System.Drawing.Point(184, 4);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(535, 277);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Miercoles";
-            this.tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // tabPage4
-            // 
-            this.tabPage4.Location = new System.Drawing.Point(184, 4);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(535, 277);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "Jueves";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
-            // tabPage5
-            // 
-            this.tabPage5.Location = new System.Drawing.Point(184, 4);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(535, 277);
-            this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "Viernres";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
-            // tabPage6
-            // 
-            this.tabPage6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(164)))), ((int)(((byte)(148)))));
-            this.tabPage6.Location = new System.Drawing.Point(184, 4);
-            this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage6.Size = new System.Drawing.Size(535, 277);
-            this.tabPage6.TabIndex = 5;
-            this.tabPage6.Text = "Sabado";
-            // 
-            // tabPage7
-            // 
-            this.tabPage7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(164)))), ((int)(((byte)(148)))));
-            this.tabPage7.Location = new System.Drawing.Point(184, 4);
-            this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage7.Size = new System.Drawing.Size(535, 277);
-            this.tabPage7.TabIndex = 6;
-            this.tabPage7.Text = "Domingo";
-            this.tabPage7.UseVisualStyleBackColor = true;
+            this.comboxnivel.BackColor = System.Drawing.Color.Transparent;
+            this.comboxnivel.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.comboxnivel.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboxnivel.FocusedColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.comboxnivel.FocusedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.comboxnivel.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.comboxnivel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(88)))), ((int)(((byte)(112)))));
+            this.comboxnivel.ItemHeight = 30;
+            this.comboxnivel.Location = new System.Drawing.Point(199, 91);
+            this.comboxnivel.Name = "comboxnivel";
+            this.comboxnivel.Size = new System.Drawing.Size(140, 36);
+            this.comboxnivel.TabIndex = 74;
+            this.comboxnivel.SelectedIndexChanged += new System.EventHandler(this.comboxnivel_SelectedIndexChanged);
             // 
             // FrmDietas
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
-            this.ClientSize = new System.Drawing.Size(987, 514);
-            this.Controls.Add(this.TabControlDieta);
+            this.ClientSize = new System.Drawing.Size(740, 418);
+            this.Controls.Add(this.comboxnivel);
+            this.Controls.Add(this.btnDiaCompletado);
+            this.Controls.Add(this.listBoxComidas);
+            this.Controls.Add(this.ComboBoxDias);
             this.Controls.Add(this.guna2CheckBox1);
             this.Controls.Add(this.guna2GradientTileButton3);
             this.Controls.Add(this.guna2GradientTileButton7);
@@ -369,10 +322,10 @@
             this.Controls.Add(this.guna2GradientTileButton1);
             this.Controls.Add(this.label8);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FrmDietas";
             this.Text = "FrmDietas";
-            this.TabControlDieta.ResumeLayout(false);
+            this.Load += new System.EventHandler(this.FrmDietas_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -393,13 +346,9 @@
         private System.Windows.Forms.Label label8;
         private Guna.UI2.WinForms.Guna2GradientTileButton guna2GradientTileButton3;
         private Guna.UI2.WinForms.Guna2CheckBox guna2CheckBox1;
-        private Guna.UI2.WinForms.Guna2TabControl TabControlDieta;
-        private System.Windows.Forms.TabPage Lunes;
-        private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.TabPage tabPage3;
-        private System.Windows.Forms.TabPage tabPage4;
-        private System.Windows.Forms.TabPage tabPage5;
-        private System.Windows.Forms.TabPage tabPage6;
-        private System.Windows.Forms.TabPage tabPage7;
+        private Guna.UI2.WinForms.Guna2Button btnDiaCompletado;
+        private System.Windows.Forms.ListBox listBoxComidas;
+        private Guna.UI2.WinForms.Guna2ComboBox ComboBoxDias;
+        private Guna.UI2.WinForms.Guna2ComboBox comboxnivel;
     }
 }

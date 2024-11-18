@@ -1,0 +1,34 @@
+#ID1
+Desayuno: Huevos revueltos con tomate, gallo pinto y queso
+Almuerzo: Fajitas de pollo con vegetales y arroz integral
+Cena: Burrito de carne con frijoles y salsa de aguacate
+
+#ID2
+Desayuno: Arepas con queso y jugo natural
+Almuerzo: Arroz con mariscos y ensalada fresca
+Cena: Ensalada de atún con lechuga, tomate y aguacate
+
+#ID3
+Desayuno: Batido de frutas, yogurt y avena
+Almuerzo: Carne asada con yuca y ensalada de repollo
+Cena: Empanadas de frijoles con ensalada
+
+#ID4
+Desayuno: Omelette de vegetales y café con leche
+Almuerzo: Chuleta de cerdo con arroz y ensalada de papas
+Cena: Ceviche de pescado con tostones
+
+#ID5
+Desayuno: Gallo pinto con crema y plátano maduro
+Almuerzo: Tacos de carne asada con frijoles y ensalada
+Cena: Tostadas con frijoles y queso rallado
+
+#ID6
+Desayuno: Tostadas con aguacate y huevo cocido
+Almuerzo: Lomo de cerdo con puré de papas y vegetales
+Cena: Pupusas de queso con curtido y salsa
+
+#ID7
+Desayuno: Pan con queso y chocolate caliente
+Almuerzo: Pollo a la plancha con arroz integral y brócoli
+Cena: Nachos con frijoles, guacamole y pico de gallo

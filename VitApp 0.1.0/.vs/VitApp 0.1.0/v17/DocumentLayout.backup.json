@@ -1,42 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\",
+  "WorkspaceRootPath": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\otros forms\\formcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\formcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|c:\\users\\gemel\\desktop\\vitapp\\vitapp\\vitapp 0.1.0\\otros forms\\forms pantalla principal\\frmdietas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\forms pantalla principal\\frmdietas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\otros forms\\forms pantalla principal\\frminiciarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\forms pantalla principal\\frminiciarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\clases\\registrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:clases\\registrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\otros forms\\formcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\formcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\otros forms\\frmsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\frmsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|c:\\users\\guill\\onedrive\\excel para negocios\\documentos\\vitapp oficial\\vitapp\\vitapp 0.1.0\\otros forms\\forms cuestionarios\\forminicialcuestionario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\forms cuestionarios\\forminicialcuestionario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|c:\\users\\guill\\onedrive\\excel para negocios\\documentos\\vitapp oficial\\vitapp\\vitapp 0.1.0\\otros forms\\forms pantalla principal\\frmdietas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\otros forms\\forms pantalla principal\\frmdietas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\forms pantalla principal\\frmdietas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\otros forms\\frmsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\frmsesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\resources\\dietapocoactivo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:resources\\dietapocoactivo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\resources\\dietamuyactivo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:resources\\dietamuyactivo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\resources\\dietaactivo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:resources\\dietaactivo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\clases\\registrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:clases\\registrousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\otros forms\\formcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\formcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\otros forms\\forms cuestionarios\\forminicialcuestionario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\forms cuestionarios\\forminicialcuestionario1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\otros forms\\forms pantalla principal\\frminiciarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\otros forms\\forms pantalla principal\\frminiciarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\forms pantalla principal\\frminiciarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\otros forms\\formcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\formcrearcuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\otros forms\\forms pantalla principal\\frminiciarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 0.1.0.csproj|solutionrelative:otros forms\\forms pantalla principal\\frminiciarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,137 +66,177 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "FormCrearCuenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\FormCrearCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\FormCrearCuenta.cs",
               "RelativeDocumentMoniker": "Otros forms\\FormCrearCuenta.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\FormCrearCuenta.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\FormCrearCuenta.cs [Dise\u00F1o]",
               "RelativeToolTip": "Otros forms\\FormCrearCuenta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T13:22:30.394Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "RegistroUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Clases\\RegistroUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Clases\\RegistroUsuarios.cs",
               "RelativeDocumentMoniker": "Clases\\RegistroUsuarios.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Clases\\RegistroUsuarios.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Clases\\RegistroUsuarios.cs",
               "RelativeToolTip": "Clases\\RegistroUsuarios.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T20:15:03.444Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmIniciarSe.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
+              "RelativeDocumentMoniker": "Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
+              "RelativeToolTip": "Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:06:38.614Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCrearCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\FormCrearCuenta.cs",
+              "RelativeDocumentMoniker": "Otros forms\\FormCrearCuenta.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\FormCrearCuenta.cs",
+              "RelativeToolTip": "Otros forms\\FormCrearCuenta.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T21:38:27.66Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmIniciarSe.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
+              "RelativeDocumentMoniker": "Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:23:21.37Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Clases\\Usuario.cs",
+              "RelativeToolTip": "Clases\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:02:25.707Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:19:16.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDietas.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmDietas.cs",
+              "RelativeDocumentMoniker": "Otros forms\\Forms Pantalla principal\\FrmDietas.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmDietas.cs",
+              "RelativeToolTip": "Otros forms\\Forms Pantalla principal\\FrmDietas.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:07:35.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmIniciarSe.cs",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
-              "RelativeDocumentMoniker": "Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
-              "RelativeToolTip": "Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwCgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:06:38.614Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormCrearCuenta.cs",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\FormCrearCuenta.cs",
-              "RelativeDocumentMoniker": "Otros forms\\FormCrearCuenta.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\FormCrearCuenta.cs",
-              "RelativeToolTip": "Otros forms\\FormCrearCuenta.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T21:38:27.66Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmIniciarSe.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
-              "RelativeDocumentMoniker": "Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Otros forms\\Forms Pantalla principal\\FrmIniciarSe.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:23:21.37Z",
-              "IsPinned": true,
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Clases\\Usuario.cs",
-              "RelativeDocumentMoniker": "Clases\\Usuario.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Clases\\Usuario.cs",
-              "RelativeToolTip": "Clases\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:02:25.707Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "FrmDietas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmDietas.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmDietas.cs",
               "RelativeDocumentMoniker": "Otros forms\\Forms Pantalla principal\\FrmDietas.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmDietas.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\Forms Pantalla principal\\FrmDietas.cs [Dise\u00F1o]",
               "RelativeToolTip": "Otros forms\\Forms Pantalla principal\\FrmDietas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T00:41:25.59Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormInicialCuestionario1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\forms cuestionarios\\FormInicialCuestionario1.cs",
-              "RelativeDocumentMoniker": "Otros forms\\forms cuestionarios\\FormInicialCuestionario1.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\forms cuestionarios\\FormInicialCuestionario1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Otros forms\\forms cuestionarios\\FormInicialCuestionario1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:21:40.747Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-15T00:41:25.59Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DietaMuyActivo.txt",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Resources\\DietaMuyActivo.txt",
+              "RelativeDocumentMoniker": "Resources\\DietaMuyActivo.txt",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Resources\\DietaMuyActivo.txt",
+              "RelativeToolTip": "Resources\\DietaMuyActivo.txt",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-15T04:37:43.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DietaPocoActivo.txt",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Resources\\DietaPocoActivo.txt",
+              "RelativeDocumentMoniker": "Resources\\DietaPocoActivo.txt",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Resources\\DietaPocoActivo.txt",
+              "RelativeToolTip": "Resources\\DietaPocoActivo.txt",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-15T05:27:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DietaActivo.txt",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Resources\\DietaActivo.txt",
+              "RelativeDocumentMoniker": "Resources\\DietaActivo.txt",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Resources\\DietaActivo.txt",
+              "RelativeToolTip": "Resources\\DietaActivo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-15T04:32:57.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormInicialCuestionario1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\forms cuestionarios\\FormInicialCuestionario1.cs",
+              "RelativeDocumentMoniker": "Otros forms\\forms cuestionarios\\FormInicialCuestionario1.cs",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\forms cuestionarios\\FormInicialCuestionario1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Otros forms\\forms cuestionarios\\FormInicialCuestionario1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:21:40.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmSesion.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\FrmSesion.cs",
+              "DocumentMoniker": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\FrmSesion.cs",
               "RelativeDocumentMoniker": "Otros forms\\FrmSesion.cs",
-              "ToolTip": "C:\\Users\\guill\\OneDrive\\excel para negocios\\Documentos\\VITAPP oficial\\vitapp\\VitApp 0.1.0\\Otros forms\\FrmSesion.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\gemel\\Desktop\\VitApp\\vitapp\\VitApp 0.1.0\\Otros forms\\FrmSesion.cs [Dise\u00F1o]",
               "RelativeToolTip": "Otros forms\\FrmSesion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:10:19.644Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-14T13:10:19.644Z"
             }
           ]
         }
