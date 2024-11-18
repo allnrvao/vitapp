@@ -1,27 +1,27 @@
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.exe.config
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.exe
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.pdb
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\Guna.UI2.dll
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.csproj.AssemblyReference.cache
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Properties.Resources.resources
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.csproj.GenerateResource.cache
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.csproj.CoreCompileInputs.cache
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.AED00803.Up2Date
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.exe
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.pdb
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.FormLoging.resources
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.forms_cuestionarios.FormInicialCuestionario1.resources
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.dll
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.dll
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\Guna.UI2.dll
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.pdb
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.xml
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.pdb
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.AssemblyReference.cache
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.FormLoging.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FrmCreateAccount.resources
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.forms_cuestionarios.FormEstadoFisico.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.forms_cuestionarios.FormInicialCuestionario1.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmDiet.resources
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmProgress.resources
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmRecomendation.resources
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmRoutine.resources
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FrmCreateAccount.resources
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.PrincipalScreen.resources
-C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmDiet.resources
 C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FrmLogOut.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.PrincipalScreen.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Properties.Resources.resources
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.GenerateResource.cache
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.CoreCompileInputs.cache
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.Up2Date
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.exe
+C:\Users\jpnic\OneDrive\Desktop\VITAAP\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.pdb
