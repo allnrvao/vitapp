@@ -64,6 +64,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\AssignPhysicStatus.cs" />
+    <Compile Include="Models\Validations.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\Userregistration.cs" />
     <Compile Include="Forms\Forms Pantalla principal\FrmLogIn.cs">
@@ -194,9 +196,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Dao\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\Dark_background_heart_monitor_final.png" />
   </ItemGroup>

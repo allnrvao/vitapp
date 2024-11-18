@@ -47,7 +47,6 @@ namespace VitApp_0._1._0.Otros_forms
                 newUser.Name = Tbname.Text;
                 newUser.Password = TbPassword.Text;
                 newUser.LastName = TbLastName.Text;
-                newUser.BornDate = DtpBirthDate;
                VerifyPassword = TbVerifyPassword.Text;
                 
                 if (newUser.Password == VerifyPassword)
