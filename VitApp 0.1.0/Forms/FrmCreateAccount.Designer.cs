@@ -429,7 +429,6 @@
         private Guna.UI2.WinForms.Guna2TextBox Tbname;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private Guna.UI2.WinForms.Guna2TileButton BtnNext;
         private System.Windows.Forms.Label label8;
     }
 }
