@@ -92,11 +92,11 @@
     <Compile Include="Forms\forms cuestionarios\FormEstadoFisico.Designer.cs">
       <DependentUpon>FormEstadoFisico.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\forms cuestionarios\FormInicialCuestionario1.cs">
+    <Compile Include="Forms\forms cuestionarios\FrmTest1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\forms cuestionarios\FormInicialCuestionario1.Designer.cs">
-      <DependentUpon>FormInicialCuestionario1.cs</DependentUpon>
+    <Compile Include="Forms\forms cuestionarios\FrmTest1.Designer.cs">
+      <DependentUpon>FrmTest1.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Forms Pantalla principal\FrmDiet.cs">
       <SubType>Form</SubType>
@@ -151,8 +151,8 @@
     <EmbeddedResource Include="Forms\forms cuestionarios\FormEstadoFisico.resx">
       <DependentUpon>FormEstadoFisico.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\forms cuestionarios\FormInicialCuestionario1.resx">
-      <DependentUpon>FormInicialCuestionario1.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\forms cuestionarios\FrmTest1.resx">
+      <DependentUpon>FrmTest1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Forms Pantalla principal\FrmDiet.resx">
       <DependentUpon>FrmDiet.cs</DependentUpon>

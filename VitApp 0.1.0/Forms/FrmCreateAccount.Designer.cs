@@ -49,8 +49,8 @@
             this.TbPassword = new Guna.UI2.WinForms.Guna2TextBox();
             this.DtpBirthDate = new Guna.UI2.WinForms.Guna2DateTimePicker();
             this.label7 = new System.Windows.Forms.Label();
-            this.BtnNext = new Guna.UI2.WinForms.Guna2TileButton();
             this.label8 = new System.Windows.Forms.Label();
+            this.BtnNext = new Guna.UI2.WinForms.Guna2Button();
             this.guna2ContextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -106,6 +106,7 @@
             this.BtnBack.Size = new System.Drawing.Size(112, 36);
             this.BtnBack.TabIndex = 3;
             this.BtnBack.Text = "Atrás";
+            this.BtnBack.Click += new System.EventHandler(this.BtnBack_Click);
             // 
             // label1
             // 
@@ -345,22 +346,6 @@
             this.label7.TabIndex = 17;
             this.label7.Text = "CREAR CUENTA";
             // 
-            // BtnNext
-            // 
-            this.BtnNext.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.BtnNext.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.BtnNext.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.BtnNext.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.BtnNext.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.BtnNext.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.BtnNext.ForeColor = System.Drawing.Color.White;
-            this.BtnNext.Location = new System.Drawing.Point(663, 561);
-            this.BtnNext.Name = "BtnNext";
-            this.BtnNext.Size = new System.Drawing.Size(112, 36);
-            this.BtnNext.TabIndex = 18;
-            this.BtnNext.Text = "Siguiente";
-            this.BtnNext.Click += new System.EventHandler(this.BtnNext_Click);
-            // 
             // label8
             // 
             this.label8.AutoSize = true;
@@ -372,13 +357,29 @@
             this.label8.TabIndex = 19;
             this.label8.Text = "VitApp";
             // 
+            // BtnNext
+            // 
+            this.BtnNext.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.BtnNext.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.BtnNext.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.BtnNext.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.BtnNext.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(100)))));
+            this.BtnNext.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.BtnNext.ForeColor = System.Drawing.Color.White;
+            this.BtnNext.Location = new System.Drawing.Point(676, 561);
+            this.BtnNext.Name = "BtnNext";
+            this.BtnNext.Size = new System.Drawing.Size(112, 36);
+            this.BtnNext.TabIndex = 20;
+            this.BtnNext.Text = "Siguiente";
+            this.BtnNext.Click += new System.EventHandler(this.BtnNext_Click);
+            // 
             // FrmCreateAccount
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.ClientSize = new System.Drawing.Size(800, 613);
-            this.Controls.Add(this.label8);
             this.Controls.Add(this.BtnNext);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.DtpBirthDate);
             this.Controls.Add(this.TbPassword);
@@ -400,7 +401,6 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmCreateAccount";
             this.Text = "FormCrearCuenta";
-            this.Load += new System.EventHandler(this.FormCrearCuenta_Load);
             this.guna2ContextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -430,5 +430,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
+        private Guna.UI2.WinForms.Guna2Button BtnNext;
     }
 }

@@ -14,10 +14,10 @@ namespace VitApp_0._1._0.Clases
         public DateTime BornDate { get; set; }
         public int Hight { get; set; }
         public int Weight { get; set; }
-
         public int Phone {  get; set; }
         public string Password { get; set; }
         public string VerifyPassword { get; set; }
+        public string PhotoPath { get; set; }
     }
 
 

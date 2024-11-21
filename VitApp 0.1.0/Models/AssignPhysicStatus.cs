@@ -20,6 +20,7 @@ namespace VitApp_0._1._0.Models
         {
             PStatus = Q1 + Q2 + Q3 + Q4;
         }
+
     }
 
 }

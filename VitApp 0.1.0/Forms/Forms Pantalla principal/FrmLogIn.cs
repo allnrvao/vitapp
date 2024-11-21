@@ -47,7 +47,7 @@ namespace VitApp_0._1._0
         private void BtnLogIn_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FormLoging pantallaPrincipal = new FormLoging();
+            PrincipalScreen pantallaPrincipal = new PrincipalScreen();
             pantallaPrincipal.ShowDialog();
             this.Close();
         }

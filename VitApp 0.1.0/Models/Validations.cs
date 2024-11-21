@@ -9,7 +9,6 @@ namespace VitApp_0._1._0.Models
     internal class Validations
     {
 
-        public AssignPhysicStatus AssigStatus(AssignPhysicStatus assigStatus);
         
     }
 }
