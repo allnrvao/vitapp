@@ -29,19 +29,9 @@ namespace VitApp_0._1._0
         private void guna2Button2_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FrmCreateAccount crearCuenta = new FrmCreateAccount();
-            crearCuenta.ShowDialog();
+            FrmCreateAccount frmCreateAccount = new FrmCreateAccount();
+            frmCreateAccount.ShowDialog();
             this.Close();
-        }
-
-            private void TbUserPassword_TextChanged(object sender, EventArgs e)
-            {
-
-            }
-
-        private void TbUser_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void BtnLogIn_Click(object sender, EventArgs e)

@@ -38,9 +38,9 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.Btncalories1 = new Guna.UI2.WinForms.Guna2RadioButton();
-            this.guna2RadioButton2 = new Guna.UI2.WinForms.Guna2RadioButton();
-            this.Btncalories2 = new Guna.UI2.WinForms.Guna2RadioButton();
             this.Btncalories3 = new Guna.UI2.WinForms.Guna2RadioButton();
+            this.Btncalories2 = new Guna.UI2.WinForms.Guna2RadioButton();
+            this.Btncalories4 = new Guna.UI2.WinForms.Guna2RadioButton();
             this.label4 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.TbWeight = new Guna.UI2.WinForms.Guna2TextBox();
@@ -109,22 +109,22 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Arial", 8F, System.Drawing.FontStyle.Bold);
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(240)))), ((int)(((byte)(236)))));
-            this.label2.Location = new System.Drawing.Point(576, 200);
+            this.label2.Location = new System.Drawing.Point(544, 200);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(54, 19);
+            this.label2.Size = new System.Drawing.Size(104, 19);
             this.label2.TabIndex = 29;
-            this.label2.Text = "Altura";
+            this.label2.Text = "Altura en cm";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial", 8F, System.Drawing.FontStyle.Bold);
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(240)))), ((int)(((byte)(236)))));
-            this.label3.Location = new System.Drawing.Point(151, 200);
+            this.label3.Location = new System.Drawing.Point(143, 200);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(48, 19);
+            this.label3.Size = new System.Drawing.Size(94, 19);
             this.label3.TabIndex = 30;
-            this.label3.Text = "Peso";
+            this.label3.Text = "Peso en kg";
             // 
             // label5
             // 
@@ -157,25 +157,25 @@
             this.Btncalories1.UncheckedState.FillColor = System.Drawing.Color.Transparent;
             this.Btncalories1.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
             // 
-            // guna2RadioButton2
+            // Btncalories3
             // 
-            this.guna2RadioButton2.AutoSize = true;
-            this.guna2RadioButton2.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2RadioButton2.CheckedState.BorderThickness = 0;
-            this.guna2RadioButton2.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2RadioButton2.CheckedState.InnerColor = System.Drawing.Color.White;
-            this.guna2RadioButton2.CheckedState.InnerOffset = -4;
-            this.guna2RadioButton2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.guna2RadioButton2.ForeColor = System.Drawing.Color.White;
-            this.guna2RadioButton2.Location = new System.Drawing.Point(453, 302);
-            this.guna2RadioButton2.Name = "guna2RadioButton2";
-            this.guna2RadioButton2.Size = new System.Drawing.Size(111, 24);
-            this.guna2RadioButton2.TabIndex = 35;
-            this.guna2RadioButton2.Text = "1500-2000";
-            this.guna2RadioButton2.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
-            this.guna2RadioButton2.UncheckedState.BorderThickness = 2;
-            this.guna2RadioButton2.UncheckedState.FillColor = System.Drawing.Color.Transparent;
-            this.guna2RadioButton2.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
+            this.Btncalories3.AutoSize = true;
+            this.Btncalories3.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Btncalories3.CheckedState.BorderThickness = 0;
+            this.Btncalories3.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Btncalories3.CheckedState.InnerColor = System.Drawing.Color.White;
+            this.Btncalories3.CheckedState.InnerOffset = -4;
+            this.Btncalories3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.Btncalories3.ForeColor = System.Drawing.Color.White;
+            this.Btncalories3.Location = new System.Drawing.Point(453, 302);
+            this.Btncalories3.Name = "Btncalories3";
+            this.Btncalories3.Size = new System.Drawing.Size(111, 24);
+            this.Btncalories3.TabIndex = 35;
+            this.Btncalories3.Text = "1500-2000";
+            this.Btncalories3.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
+            this.Btncalories3.UncheckedState.BorderThickness = 2;
+            this.Btncalories3.UncheckedState.FillColor = System.Drawing.Color.Transparent;
+            this.Btncalories3.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
             // 
             // Btncalories2
             // 
@@ -197,25 +197,25 @@
             this.Btncalories2.UncheckedState.FillColor = System.Drawing.Color.Transparent;
             this.Btncalories2.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
             // 
-            // Btncalories3
+            // Btncalories4
             // 
-            this.Btncalories3.AutoSize = true;
-            this.Btncalories3.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.Btncalories3.CheckedState.BorderThickness = 0;
-            this.Btncalories3.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.Btncalories3.CheckedState.InnerColor = System.Drawing.Color.White;
-            this.Btncalories3.CheckedState.InnerOffset = -4;
-            this.Btncalories3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.Btncalories3.ForeColor = System.Drawing.Color.White;
-            this.Btncalories3.Location = new System.Drawing.Point(625, 302);
-            this.Btncalories3.Name = "Btncalories3";
-            this.Btncalories3.Size = new System.Drawing.Size(64, 24);
-            this.Btncalories3.TabIndex = 37;
-            this.Btncalories3.Text = "Más";
-            this.Btncalories3.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
-            this.Btncalories3.UncheckedState.BorderThickness = 2;
-            this.Btncalories3.UncheckedState.FillColor = System.Drawing.Color.Transparent;
-            this.Btncalories3.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
+            this.Btncalories4.AutoSize = true;
+            this.Btncalories4.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Btncalories4.CheckedState.BorderThickness = 0;
+            this.Btncalories4.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.Btncalories4.CheckedState.InnerColor = System.Drawing.Color.White;
+            this.Btncalories4.CheckedState.InnerOffset = -4;
+            this.Btncalories4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.Btncalories4.ForeColor = System.Drawing.Color.White;
+            this.Btncalories4.Location = new System.Drawing.Point(625, 302);
+            this.Btncalories4.Name = "Btncalories4";
+            this.Btncalories4.Size = new System.Drawing.Size(64, 24);
+            this.Btncalories4.TabIndex = 37;
+            this.Btncalories4.Text = "Más";
+            this.Btncalories4.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
+            this.Btncalories4.UncheckedState.BorderThickness = 2;
+            this.Btncalories4.UncheckedState.FillColor = System.Drawing.Color.Transparent;
+            this.Btncalories4.UncheckedState.InnerColor = System.Drawing.Color.Transparent;
             // 
             // label4
             // 
@@ -316,16 +316,17 @@
             // 
             // FrmTest1
             // 
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.ClientSize = new System.Drawing.Size(804, 431);
             this.Controls.Add(this.BtnCloseX);
             this.Controls.Add(this.TbHight);
             this.Controls.Add(this.TbWeight);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.Btncalories3);
+            this.Controls.Add(this.Btncalories4);
             this.Controls.Add(this.Btncalories2);
-            this.Controls.Add(this.guna2RadioButton2);
+            this.Controls.Add(this.Btncalories3);
             this.Controls.Add(this.Btncalories1);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label3);
@@ -338,6 +339,7 @@
             this.Controls.Add(this.guna2ControlBox2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmTest1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = " ";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -355,9 +357,9 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label5;
         private Guna.UI2.WinForms.Guna2RadioButton Btncalories1;
-        private Guna.UI2.WinForms.Guna2RadioButton Btncalories3;
+        private Guna.UI2.WinForms.Guna2RadioButton Btncalories4;
         private Guna.UI2.WinForms.Guna2RadioButton Btncalories2;
-        private Guna.UI2.WinForms.Guna2RadioButton guna2RadioButton2;
+        private Guna.UI2.WinForms.Guna2RadioButton Btncalories3;
         private System.Windows.Forms.Label label4;
         private Guna.UI2.WinForms.Guna2TextBox TbHight;
         private Guna.UI2.WinForms.Guna2TextBox TbWeight;

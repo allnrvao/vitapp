@@ -74,11 +74,11 @@
     <Compile Include="Forms\Forms Pantalla principal\FrmLogIn.Designer.cs">
       <DependentUpon>FrmLogIn.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\FrmConfiguration.cs">
+    <Compile Include="Forms\FrmSetting.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\FrmConfiguration.Designer.cs">
-      <DependentUpon>FrmConfiguration.cs</DependentUpon>
+    <Compile Include="Forms\FrmSetting.Designer.cs">
+      <DependentUpon>FrmSetting.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\FrmCreateAccount.cs">
       <SubType>Form</SubType>
@@ -145,6 +145,9 @@
     <EmbeddedResource Include="Forms\Forms Pantalla principal\FrmLogIn.resx">
       <DependentUpon>FrmLogIn.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSetting.resx">
+      <DependentUpon>FrmSetting.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\FrmCreateAccount.resx">
       <DependentUpon>FrmCreateAccount.cs</DependentUpon>
     </EmbeddedResource>
@@ -168,6 +171,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FrmLogOut.resx">
       <DependentUpon>FrmLogOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmProfile.resx">
+      <DependentUpon>FrmProfile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\PrincipalScreen.resx">
       <DependentUpon>PrincipalScreen.cs</DependentUpon>

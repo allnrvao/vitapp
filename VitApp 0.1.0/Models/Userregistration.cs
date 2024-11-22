@@ -12,7 +12,7 @@ namespace VitApp_0._1._0.Classes
     {
         public static string rutaArchivo = "usuarios.txt";
 
-        public static void GuardarUsuario(User user)
+        public static void SaveUser(User user)
         {
             using (StreamWriter writer = new StreamWriter(rutaArchivo, true))
             {
@@ -20,7 +20,7 @@ namespace VitApp_0._1._0.Classes
             }
         }
 
-        public static List<User> CargarUsuarios()
+        public static List<User> UplaundUser()
         {
             var users = new List<User>();
 
@@ -33,7 +33,7 @@ namespace VitApp_0._1._0.Classes
                     {
                         var data = line.Split(',');
 
-                        if (data.Length == 7) // Ajustar según los campos que tengas
+                        if (data.Length == 7) 
                         {
                             users.Add(new User
                             {
@@ -55,16 +55,16 @@ namespace VitApp_0._1._0.Classes
         }
 
         // Buscar un usuario por nombre
-        public static User BuscarUsuario(string name)
+        public static User lookUser(string name)
         {
-            var users = CargarUsuarios();
+            var users = UplaundUser();
             return users.FirstOrDefault(u => u.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
         }
 
         // Actualizar un usuario por nombre
-        public static bool ActualizarUsuario(string name, User newUser)
+        public static bool UpdateUser(string name, User newUser)
         {
-            var users1 = CargarUsuarios();
+            var users1 = UplaundUser();
             bool updated = false;
 
             for (int i = 0; i < users1.Count; i++)
@@ -79,7 +79,7 @@ namespace VitApp_0._1._0.Classes
 
             if (updated)
             {
-                SaveUser(users1); // Guardar los cambios en el archivo
+                SaveUser(newUser); // Guardar los cambios en el archivo
             }
 
             return updated;
@@ -92,9 +92,14 @@ namespace VitApp_0._1._0.Classes
             {
                 foreach (var user in users)
                 {
-                    writer.WriteLine($"{user.Name},{user.LastName},{user.Phone},{user.BornDate},{user.Password},{user.VerifyPassword}");
+                    writer.WriteLine($"{user.Name},{user.LastName},{user.Phone},{user.BornDate},{user.Password},{user.VerifyPassword}, {user.PStatusUser}");
                 }
             }
+        }
+
+        internal void SaveUser1(User user)
+        {
+            
         }
     }
 }

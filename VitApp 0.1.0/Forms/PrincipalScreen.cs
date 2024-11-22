@@ -38,7 +38,7 @@ namespace VitApp_0._1._0.Otros_forms
         private void guna2GradientTileButton4_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FrmConfiguration frmConfiguration = new FrmConfiguration();
+            FrmSetting frmConfiguration = new FrmSetting();
             frmConfiguration.ShowDialog();
             this.Close();
         }

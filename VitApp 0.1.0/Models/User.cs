@@ -18,6 +18,7 @@ namespace VitApp_0._1._0.Clases
         public string Password { get; set; }
         public string VerifyPassword { get; set; }
         public string PhotoPath { get; set; }
+        public int PStatusUser { get; set; }
     }
 
 

@@ -113,7 +113,6 @@
             this.TbUser.SelectedText = "";
             this.TbUser.Size = new System.Drawing.Size(225, 30);
             this.TbUser.TabIndex = 5;
-            this.TbUser.TextChanged += new System.EventHandler(this.TbUser_TextChanged);
             // 
             // TbUserPassword
             // 
@@ -138,7 +137,6 @@
             this.TbUserPassword.SelectedText = "";
             this.TbUserPassword.Size = new System.Drawing.Size(225, 31);
             this.TbUserPassword.TabIndex = 6;
-            this.TbUserPassword.TextChanged += new System.EventHandler(this.TbUserPassword_TextChanged);
             // 
             // guna2VSeparator1
             // 

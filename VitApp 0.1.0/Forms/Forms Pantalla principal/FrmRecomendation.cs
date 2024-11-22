@@ -53,7 +53,7 @@ namespace VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal
         private void guna2GradientTileButton7_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FrmConfiguration frmConfiguration = new FrmConfiguration();
+            FrmSetting frmConfiguration = new FrmSetting();
             frmConfiguration.ShowDialog();
             this.Close();
         }
