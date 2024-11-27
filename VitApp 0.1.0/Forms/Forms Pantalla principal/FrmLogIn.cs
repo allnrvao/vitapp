@@ -36,10 +36,41 @@ namespace VitApp_0._1._0
 
         private void BtnLogIn_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            PrincipalScreen pantallaPrincipal = new PrincipalScreen();
-            pantallaPrincipal.ShowDialog();
-            this.Close();
+            var user = Userregistration.UplaundUser();
+            foreach (var user in user)
+            {
+                if (user.Name == TbUser && user.Password == TbUserPassword)
+                {
+                    PrincipalScreen principalScreen = new PrincipalScreen();
+                    principalScreen.ShowDialog();
+
+                    return true;
+                }
+
+            }
+            return false;
+
+        }
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            string User = TbUsuario.Text;
+            string Pasword = TbPasword.Text;
+
+            if (string.IsNullOrWhiteSpace(User) | string.IsNullOrWhiteSpace(Pasword))
+            {
+                MessageBox.Show("Diguita tus datos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+
+            }
+            if (Login(User, Pasword))
+            {
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Usuario no encontrado o contraseña incorrecta.");
+            }
         }
     }
+    
 }
