@@ -1,62 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|c:\\users\\armando valdivia\\desktop\\vitappallan - copia\\vitapp\\vitapp 0.1.0\\forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|c:\\users\\dell\\desktop\\vitapp_armando\\vitapp 0.1.0\\resources\\dietveryactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:resources\\dietveryactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\resources\\dietactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:resources\\dietactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\resources\\dietlittleactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:resources\\dietlittleactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\resources\\routineactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:resources\\routineactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\resources\\routinelittleactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:resources\\routinelittleactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\resources\\routineveryactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:resources\\routineveryactive.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmrecomendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmrecomendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmrecomendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmrecomendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,168 +90,239 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "DietLittleActive.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\DietLittleActive.txt",
+              "RelativeDocumentMoniker": "Resources\\DietLittleActive.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\DietLittleActive.txt",
+              "RelativeToolTip": "Resources\\DietLittleActive.txt",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T08:00:45.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DietActive.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\DietActive.txt",
+              "RelativeDocumentMoniker": "Resources\\DietActive.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\DietActive.txt",
+              "RelativeToolTip": "Resources\\DietActive.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T07:59:12.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DietVeryActive.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\DietVeryActive.txt",
+              "RelativeDocumentMoniker": "Resources\\DietVeryActive.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\DietVeryActive.txt",
+              "RelativeToolTip": "Resources\\DietVeryActive.txt",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T06:34:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoutineLittleActive.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\RoutineLittleActive.txt",
+              "RelativeDocumentMoniker": "Resources\\RoutineLittleActive.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\RoutineLittleActive.txt",
+              "RelativeToolTip": "Resources\\RoutineLittleActive.txt",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T05:48:34.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoutineActive.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\RoutineActive.txt",
+              "RelativeDocumentMoniker": "Resources\\RoutineActive.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\RoutineActive.txt",
+              "RelativeToolTip": "Resources\\RoutineActive.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T05:48:25.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoutineVeryActive.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\RoutineVeryActive.txt",
+              "RelativeDocumentMoniker": "Resources\\RoutineVeryActive.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Resources\\RoutineVeryActive.txt",
+              "RelativeToolTip": "Resources\\RoutineVeryActive.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T05:47:31.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PrincipalScreen.cs",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs",
               "RelativeDocumentMoniker": "Forms\\PrincipalScreen.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs",
               "RelativeToolTip": "Forms\\PrincipalScreen.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAnwBsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAvwD8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T06:42:20.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "FrmSetting.cs",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\FrmSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\FrmSetting.cs",
               "RelativeDocumentMoniker": "Forms\\FrmSetting.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\FrmSetting.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\FrmSetting.cs",
               "RelativeToolTip": "Forms\\FrmSetting.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAnwDMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T06:42:19.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "FrmProgress.cs",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmProgress.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs",
               "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmProgress.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAnwCAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAewBwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T06:42:17.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "FrmRecomendation.cs",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRecomendation.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRecomendation.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmRecomendation.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRecomendation.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRecomendation.cs",
               "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmRecomendation.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAewDIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAMwCwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T06:42:09.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FrmRoutine.cs",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmRoutine.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs",
               "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmRoutine.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAUwJEAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T06:41:35.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "FrmProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
               "RelativeDocumentMoniker": "Forms\\FrmProfile.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
               "RelativeToolTip": "Forms\\FrmProfile.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAASwDMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwC0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T06:37:09.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "FrmDiet.cs",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmDiet.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
               "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmDiet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAmwKoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T06:11:02.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmDiet.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
-              "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmDiet.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmDiet.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:14:09.551Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-25T06:11:02.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "FrmDiet.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
+              "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmDiet.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmDiet.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:14:09.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FrmRoutine.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmRoutine.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\VitAppAllan\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmRoutine.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T10:14:07.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "FrmProfile.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
               "RelativeDocumentMoniker": "Forms\\FrmProfile.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\VitAppAllan\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\FrmProfile.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmProfile.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T10:11:13.528Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "PrincipalScreen.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs",
               "RelativeDocumentMoniker": "Forms\\PrincipalScreen.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan\\vitapp\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\VitAppAllan\\vitapp\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\PrincipalScreen.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T10:08:53.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "FrmLogIn.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmLogIn.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmLogIn.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmLogIn.cs",
               "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmLogIn.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmLogIn.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmLogIn.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T10:06:01.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "FrmCreateAccount.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs",
               "RelativeDocumentMoniker": "Forms\\FrmCreateAccount.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmCreateAccount.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T10:05:24.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "FrmProgress.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan - copia\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmProgress.cs",
-              "ToolTip": "C:\\Users\\Armando Valdivia\\Desktop\\VitAppAllan\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\VitAppAllan\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\vitapp_Armando\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmProgress.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T09:29:39.405Z"
             }

@@ -1,0 +1,38 @@
+#Lunes
+HIIT (30 min)
+Estiramientos dinamicos (15 min)
+Pesas (30 min)
+Cardio moderado (15 min)
+
+#Martes
+Correr a ritmo moderado (25 min)
+Yoga para flexibilidad (15 min)
+Pesas (30 min)
+Movilidad articular (10 min)
+
+#Miercoles
+Circuito de fuerza (40 min)
+Caminata rapida (20 min)
+Estiramientos de caderas y piernas (10 min)
+HIIT (20 min)
+
+#Jueves
+Natacion moderada (40 min)
+Ciclismo moderado (30 min)
+Estiramientos de piernas (15 min)
+Yoga para relajacion (15 min)
+
+#Viernes
+Crossfit (45 min)
+Ejercicios de resistencia para abdomen (15 min)
+Caminata rapida (15 min)
+HIIT (20 min)
+
+#Sabado
+Cardio intenso (45 min)
+Pesas (30 min)
+Estiramientos dinamicos (15 min)
+Movilidad articular (10 min)
+
+#Domingo
+Descanso. Relajate y recupera energia.

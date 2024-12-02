@@ -20,8 +20,12 @@ namespace VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal
         private void guna2GradientTileButton5_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FrmRoutine frmRoutine = new FrmRoutine();
+            // Aquí debes definir el nivel de actividad que quieres pasar
+            string nivelActividad = "Activo"; // Cambia "Activo" según sea necesario
+
+            FrmRoutine frmRoutine = new FrmRoutine(nivelActividad);
             frmRoutine.ShowDialog();
+
             this.Close();
         }
 

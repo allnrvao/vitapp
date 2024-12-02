@@ -443,7 +443,7 @@
             // 
             // SundayDiet
             // 
-            this.SundayDiet.BackColor = System.Drawing.Color.White;
+            this.SundayDiet.BackColor = System.Drawing.Color.Transparent;
             this.SundayDiet.Controls.Add(this.guna2Button3);
             this.SundayDiet.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.SundayDiet.Location = new System.Drawing.Point(184, 4);
@@ -451,7 +451,6 @@
             this.SundayDiet.Size = new System.Drawing.Size(462, 328);
             this.SundayDiet.TabIndex = 6;
             this.SundayDiet.Text = "Domingo";
-            this.SundayDiet.UseVisualStyleBackColor = true;
             this.SundayDiet.Click += new System.EventHandler(this.SundayDiet_Click);
             // 
             // guna2Button3

@@ -43,33 +43,19 @@
             this.guna2GradientTileButton6 = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.guna2GradientTileButton7 = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.guna2TabControl1 = new Guna.UI2.WinForms.Guna2TabControl();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.BtnChangeRutine = new Guna.UI2.WinForms.Guna2Button();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
-            this.tabPage6 = new System.Windows.Forms.TabPage();
-            this.guna2Button5 = new Guna.UI2.WinForms.Guna2Button();
-            this.tabPage7 = new System.Windows.Forms.TabPage();
-            this.guna2Button6 = new Guna.UI2.WinForms.Guna2Button();
+            this.TabControlRoutine = new Guna.UI2.WinForms.Guna2TabControl();
+            this.MondayRoutine = new System.Windows.Forms.TabPage();
+            this.TuesdayRoutine = new System.Windows.Forms.TabPage();
+            this.WednesdayRoutine = new System.Windows.Forms.TabPage();
+            this.ThursdayRoutine = new System.Windows.Forms.TabPage();
+            this.FridayRoutine = new System.Windows.Forms.TabPage();
+            this.SaturdayRoutine = new System.Windows.Forms.TabPage();
+            this.SundayRoutine = new System.Windows.Forms.TabPage();
             this.guna2CheckBox1 = new Guna.UI2.WinForms.Guna2CheckBox();
             this.label15 = new System.Windows.Forms.Label();
             this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.groupBox1.SuspendLayout();
-            this.guna2TabControl1.SuspendLayout();
-            this.tabPage1.SuspendLayout();
-            this.tabPage2.SuspendLayout();
-            this.tabPage3.SuspendLayout();
-            this.tabPage4.SuspendLayout();
-            this.tabPage5.SuspendLayout();
-            this.tabPage6.SuspendLayout();
-            this.tabPage7.SuspendLayout();
+            this.TabControlRoutine.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -242,7 +228,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.guna2TabControl1);
+            this.groupBox1.Controls.Add(this.TabControlRoutine);
             this.groupBox1.Controls.Add(this.guna2CheckBox1);
             this.groupBox1.Location = new System.Drawing.Point(224, 142);
             this.groupBox1.Name = "groupBox1";
@@ -250,239 +236,113 @@
             this.groupBox1.TabIndex = 59;
             this.groupBox1.TabStop = false;
             // 
-            // guna2TabControl1
+            // TabControlRoutine
             // 
-            this.guna2TabControl1.Alignment = System.Windows.Forms.TabAlignment.Left;
-            this.guna2TabControl1.Controls.Add(this.tabPage1);
-            this.guna2TabControl1.Controls.Add(this.tabPage2);
-            this.guna2TabControl1.Controls.Add(this.tabPage3);
-            this.guna2TabControl1.Controls.Add(this.tabPage4);
-            this.guna2TabControl1.Controls.Add(this.tabPage5);
-            this.guna2TabControl1.Controls.Add(this.tabPage6);
-            this.guna2TabControl1.Controls.Add(this.tabPage7);
-            this.guna2TabControl1.ItemSize = new System.Drawing.Size(180, 40);
-            this.guna2TabControl1.Location = new System.Drawing.Point(17, 25);
-            this.guna2TabControl1.Name = "guna2TabControl1";
-            this.guna2TabControl1.SelectedIndex = 0;
-            this.guna2TabControl1.Size = new System.Drawing.Size(814, 402);
-            this.guna2TabControl1.TabButtonHoverState.BorderColor = System.Drawing.Color.Empty;
-            this.guna2TabControl1.TabButtonHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(155)))), ((int)(((byte)(143)))));
-            this.guna2TabControl1.TabButtonHoverState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
-            this.guna2TabControl1.TabButtonHoverState.ForeColor = System.Drawing.Color.White;
-            this.guna2TabControl1.TabButtonHoverState.InnerColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(155)))), ((int)(((byte)(143)))));
-            this.guna2TabControl1.TabButtonIdleState.BorderColor = System.Drawing.Color.Empty;
-            this.guna2TabControl1.TabButtonIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
-            this.guna2TabControl1.TabButtonIdleState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
-            this.guna2TabControl1.TabButtonIdleState.ForeColor = System.Drawing.Color.White;
-            this.guna2TabControl1.TabButtonIdleState.InnerColor = System.Drawing.Color.Green;
-            this.guna2TabControl1.TabButtonSelectedState.BorderColor = System.Drawing.Color.Empty;
-            this.guna2TabControl1.TabButtonSelectedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(155)))), ((int)(((byte)(143)))));
-            this.guna2TabControl1.TabButtonSelectedState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
-            this.guna2TabControl1.TabButtonSelectedState.ForeColor = System.Drawing.Color.White;
-            this.guna2TabControl1.TabButtonSelectedState.InnerColor = System.Drawing.Color.Lime;
-            this.guna2TabControl1.TabButtonSize = new System.Drawing.Size(180, 40);
-            this.guna2TabControl1.TabIndex = 110;
-            this.guna2TabControl1.TabMenuBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
+            this.TabControlRoutine.Alignment = System.Windows.Forms.TabAlignment.Left;
+            this.TabControlRoutine.Controls.Add(this.MondayRoutine);
+            this.TabControlRoutine.Controls.Add(this.TuesdayRoutine);
+            this.TabControlRoutine.Controls.Add(this.WednesdayRoutine);
+            this.TabControlRoutine.Controls.Add(this.ThursdayRoutine);
+            this.TabControlRoutine.Controls.Add(this.FridayRoutine);
+            this.TabControlRoutine.Controls.Add(this.SaturdayRoutine);
+            this.TabControlRoutine.Controls.Add(this.SundayRoutine);
+            this.TabControlRoutine.ItemSize = new System.Drawing.Size(180, 40);
+            this.TabControlRoutine.Location = new System.Drawing.Point(17, 25);
+            this.TabControlRoutine.Name = "TabControlRoutine";
+            this.TabControlRoutine.SelectedIndex = 0;
+            this.TabControlRoutine.Size = new System.Drawing.Size(814, 402);
+            this.TabControlRoutine.TabButtonHoverState.BorderColor = System.Drawing.Color.Empty;
+            this.TabControlRoutine.TabButtonHoverState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(155)))), ((int)(((byte)(143)))));
+            this.TabControlRoutine.TabButtonHoverState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
+            this.TabControlRoutine.TabButtonHoverState.ForeColor = System.Drawing.Color.White;
+            this.TabControlRoutine.TabButtonHoverState.InnerColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(155)))), ((int)(((byte)(143)))));
+            this.TabControlRoutine.TabButtonIdleState.BorderColor = System.Drawing.Color.Empty;
+            this.TabControlRoutine.TabButtonIdleState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
+            this.TabControlRoutine.TabButtonIdleState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
+            this.TabControlRoutine.TabButtonIdleState.ForeColor = System.Drawing.Color.White;
+            this.TabControlRoutine.TabButtonIdleState.InnerColor = System.Drawing.Color.Green;
+            this.TabControlRoutine.TabButtonSelectedState.BorderColor = System.Drawing.Color.Empty;
+            this.TabControlRoutine.TabButtonSelectedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(119)))), ((int)(((byte)(155)))), ((int)(((byte)(143)))));
+            this.TabControlRoutine.TabButtonSelectedState.Font = new System.Drawing.Font("Segoe UI Semibold", 10F);
+            this.TabControlRoutine.TabButtonSelectedState.ForeColor = System.Drawing.Color.White;
+            this.TabControlRoutine.TabButtonSelectedState.InnerColor = System.Drawing.Color.Lime;
+            this.TabControlRoutine.TabButtonSize = new System.Drawing.Size(180, 40);
+            this.TabControlRoutine.TabIndex = 110;
+            this.TabControlRoutine.TabMenuBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             // 
-            // tabPage1
+            // MondayRoutine
             // 
-            this.tabPage1.Controls.Add(this.BtnChangeRutine);
-            this.tabPage1.Location = new System.Drawing.Point(184, 4);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(626, 394);
-            this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "Lunes";
-            this.tabPage1.UseVisualStyleBackColor = true;
+            this.MondayRoutine.Location = new System.Drawing.Point(184, 4);
+            this.MondayRoutine.Name = "MondayRoutine";
+            this.MondayRoutine.Padding = new System.Windows.Forms.Padding(3);
+            this.MondayRoutine.Size = new System.Drawing.Size(626, 394);
+            this.MondayRoutine.TabIndex = 0;
+            this.MondayRoutine.Text = "Lunes";
+            this.MondayRoutine.UseVisualStyleBackColor = true;
+            this.MondayRoutine.Click += new System.EventHandler(this.tabPage1_Click);
             // 
-            // BtnChangeRutine
+            // TuesdayRoutine
             // 
-            this.BtnChangeRutine.Animated = true;
-            this.BtnChangeRutine.AutoRoundedCorners = true;
-            this.BtnChangeRutine.BorderRadius = 21;
-            this.BtnChangeRutine.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.BtnChangeRutine.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.BtnChangeRutine.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.BtnChangeRutine.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.BtnChangeRutine.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.BtnChangeRutine.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnChangeRutine.ForeColor = System.Drawing.Color.White;
-            this.BtnChangeRutine.Location = new System.Drawing.Point(223, 343);
-            this.BtnChangeRutine.Name = "BtnChangeRutine";
-            this.BtnChangeRutine.Size = new System.Drawing.Size(180, 45);
-            this.BtnChangeRutine.TabIndex = 111;
-            this.BtnChangeRutine.Text = "Cambiar";
+            this.TuesdayRoutine.Location = new System.Drawing.Point(184, 4);
+            this.TuesdayRoutine.Name = "TuesdayRoutine";
+            this.TuesdayRoutine.Padding = new System.Windows.Forms.Padding(3);
+            this.TuesdayRoutine.Size = new System.Drawing.Size(626, 394);
+            this.TuesdayRoutine.TabIndex = 1;
+            this.TuesdayRoutine.Text = "Martes";
+            this.TuesdayRoutine.UseVisualStyleBackColor = true;
+            this.TuesdayRoutine.Click += new System.EventHandler(this.TuesdayRoutine_Click);
             // 
-            // tabPage2
+            // WednesdayRoutine
             // 
-            this.tabPage2.Controls.Add(this.guna2Button1);
-            this.tabPage2.Location = new System.Drawing.Point(184, 4);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(626, 394);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Martes";
-            this.tabPage2.UseVisualStyleBackColor = true;
+            this.WednesdayRoutine.Location = new System.Drawing.Point(184, 4);
+            this.WednesdayRoutine.Name = "WednesdayRoutine";
+            this.WednesdayRoutine.Size = new System.Drawing.Size(626, 394);
+            this.WednesdayRoutine.TabIndex = 2;
+            this.WednesdayRoutine.Text = "Miércoles";
+            this.WednesdayRoutine.UseVisualStyleBackColor = true;
+            this.WednesdayRoutine.Click += new System.EventHandler(this.WednesdayRoutine_Click);
             // 
-            // guna2Button1
+            // ThursdayRoutine
             // 
-            this.guna2Button1.Animated = true;
-            this.guna2Button1.AutoRoundedCorners = true;
-            this.guna2Button1.BorderRadius = 21;
-            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.guna2Button1.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(240, 343);
-            this.guna2Button1.Name = "guna2Button1";
-            this.guna2Button1.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button1.TabIndex = 111;
-            this.guna2Button1.Text = "Cambiar";
+            this.ThursdayRoutine.Location = new System.Drawing.Point(184, 4);
+            this.ThursdayRoutine.Name = "ThursdayRoutine";
+            this.ThursdayRoutine.Size = new System.Drawing.Size(626, 394);
+            this.ThursdayRoutine.TabIndex = 3;
+            this.ThursdayRoutine.Text = "Jueves";
+            this.ThursdayRoutine.UseVisualStyleBackColor = true;
+            this.ThursdayRoutine.Click += new System.EventHandler(this.ThursdayRoutine_Click);
             // 
-            // tabPage3
+            // FridayRoutine
             // 
-            this.tabPage3.Controls.Add(this.guna2Button2);
-            this.tabPage3.Location = new System.Drawing.Point(184, 4);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(626, 394);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Miércoles";
-            this.tabPage3.UseVisualStyleBackColor = true;
+            this.FridayRoutine.Location = new System.Drawing.Point(184, 4);
+            this.FridayRoutine.Name = "FridayRoutine";
+            this.FridayRoutine.Size = new System.Drawing.Size(626, 394);
+            this.FridayRoutine.TabIndex = 4;
+            this.FridayRoutine.Text = "Viernes";
+            this.FridayRoutine.UseVisualStyleBackColor = true;
+            this.FridayRoutine.Click += new System.EventHandler(this.FridayRoutine_Click);
             // 
-            // guna2Button2
+            // SaturdayRoutine
             // 
-            this.guna2Button2.Animated = true;
-            this.guna2Button2.AutoRoundedCorners = true;
-            this.guna2Button2.BorderRadius = 21;
-            this.guna2Button2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.guna2Button2.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button2.ForeColor = System.Drawing.Color.White;
-            this.guna2Button2.Location = new System.Drawing.Point(231, 346);
-            this.guna2Button2.Name = "guna2Button2";
-            this.guna2Button2.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button2.TabIndex = 111;
-            this.guna2Button2.Text = "Cambiar";
+            this.SaturdayRoutine.Location = new System.Drawing.Point(184, 4);
+            this.SaturdayRoutine.Name = "SaturdayRoutine";
+            this.SaturdayRoutine.Size = new System.Drawing.Size(626, 394);
+            this.SaturdayRoutine.TabIndex = 5;
+            this.SaturdayRoutine.Text = "Sábado ";
+            this.SaturdayRoutine.UseVisualStyleBackColor = true;
+            this.SaturdayRoutine.Click += new System.EventHandler(this.SaturdayRoutine_Click);
             // 
-            // tabPage4
+            // SundayRoutine
             // 
-            this.tabPage4.Controls.Add(this.guna2Button3);
-            this.tabPage4.Location = new System.Drawing.Point(184, 4);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(626, 394);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "Jueves";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
-            // guna2Button3
-            // 
-            this.guna2Button3.Animated = true;
-            this.guna2Button3.AutoRoundedCorners = true;
-            this.guna2Button3.BorderRadius = 21;
-            this.guna2Button3.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button3.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button3.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.guna2Button3.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button3.ForeColor = System.Drawing.Color.White;
-            this.guna2Button3.Location = new System.Drawing.Point(234, 346);
-            this.guna2Button3.Name = "guna2Button3";
-            this.guna2Button3.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button3.TabIndex = 111;
-            this.guna2Button3.Text = "Cambiar";
-            // 
-            // tabPage5
-            // 
-            this.tabPage5.Controls.Add(this.guna2Button4);
-            this.tabPage5.Location = new System.Drawing.Point(184, 4);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(626, 394);
-            this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "Viernes";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
-            // guna2Button4
-            // 
-            this.guna2Button4.Animated = true;
-            this.guna2Button4.AutoRoundedCorners = true;
-            this.guna2Button4.BorderRadius = 21;
-            this.guna2Button4.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button4.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button4.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button4.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button4.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.guna2Button4.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button4.ForeColor = System.Drawing.Color.White;
-            this.guna2Button4.Location = new System.Drawing.Point(216, 346);
-            this.guna2Button4.Name = "guna2Button4";
-            this.guna2Button4.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button4.TabIndex = 111;
-            this.guna2Button4.Text = "Cambiar";
-            // 
-            // tabPage6
-            // 
-            this.tabPage6.Controls.Add(this.guna2Button5);
-            this.tabPage6.Location = new System.Drawing.Point(184, 4);
-            this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Size = new System.Drawing.Size(626, 394);
-            this.tabPage6.TabIndex = 5;
-            this.tabPage6.Text = "Sábado ";
-            this.tabPage6.UseVisualStyleBackColor = true;
-            // 
-            // guna2Button5
-            // 
-            this.guna2Button5.Animated = true;
-            this.guna2Button5.AutoRoundedCorners = true;
-            this.guna2Button5.BorderRadius = 21;
-            this.guna2Button5.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button5.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button5.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button5.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button5.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.guna2Button5.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button5.ForeColor = System.Drawing.Color.White;
-            this.guna2Button5.Location = new System.Drawing.Point(220, 346);
-            this.guna2Button5.Name = "guna2Button5";
-            this.guna2Button5.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button5.TabIndex = 111;
-            this.guna2Button5.Text = "Cambiar";
-            // 
-            // tabPage7
-            // 
-            this.tabPage7.BackColor = System.Drawing.Color.White;
-            this.tabPage7.Controls.Add(this.guna2Button6);
-            this.tabPage7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
-            this.tabPage7.Location = new System.Drawing.Point(184, 4);
-            this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(626, 394);
-            this.tabPage7.TabIndex = 6;
-            this.tabPage7.Text = "Domingo";
-            this.tabPage7.UseVisualStyleBackColor = true;
-            // 
-            // guna2Button6
-            // 
-            this.guna2Button6.Animated = true;
-            this.guna2Button6.AutoRoundedCorners = true;
-            this.guna2Button6.BorderRadius = 21;
-            this.guna2Button6.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button6.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button6.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button6.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.guna2Button6.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button6.ForeColor = System.Drawing.Color.White;
-            this.guna2Button6.Location = new System.Drawing.Point(209, 346);
-            this.guna2Button6.Name = "guna2Button6";
-            this.guna2Button6.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button6.TabIndex = 111;
-            this.guna2Button6.Text = "Cambiar";
+            this.SundayRoutine.BackColor = System.Drawing.Color.White;
+            this.SundayRoutine.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
+            this.SundayRoutine.Location = new System.Drawing.Point(184, 4);
+            this.SundayRoutine.Name = "SundayRoutine";
+            this.SundayRoutine.Size = new System.Drawing.Size(626, 394);
+            this.SundayRoutine.TabIndex = 6;
+            this.SundayRoutine.Text = "Domingo";
+            this.SundayRoutine.UseVisualStyleBackColor = true;
+            this.SundayRoutine.Click += new System.EventHandler(this.SundayRoutine_Click);
             // 
             // guna2CheckBox1
             // 
@@ -552,14 +412,7 @@
             this.Load += new System.EventHandler(this.FrmRoutine_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            this.guna2TabControl1.ResumeLayout(false);
-            this.tabPage1.ResumeLayout(false);
-            this.tabPage2.ResumeLayout(false);
-            this.tabPage3.ResumeLayout(false);
-            this.tabPage4.ResumeLayout(false);
-            this.tabPage5.ResumeLayout(false);
-            this.tabPage6.ResumeLayout(false);
-            this.tabPage7.ResumeLayout(false);
+            this.TabControlRoutine.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -584,20 +437,13 @@
         private Guna.UI2.WinForms.Guna2CheckBox guna2CheckBox1;
         private System.Windows.Forms.Label label15;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
-        private Guna.UI2.WinForms.Guna2TabControl guna2TabControl1;
-        private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.TabPage tabPage3;
-        private System.Windows.Forms.TabPage tabPage4;
-        private System.Windows.Forms.TabPage tabPage5;
-        private System.Windows.Forms.TabPage tabPage6;
-        private System.Windows.Forms.TabPage tabPage7;
-        private Guna.UI2.WinForms.Guna2Button BtnChangeRutine;
-        private Guna.UI2.WinForms.Guna2Button guna2Button1;
-        private Guna.UI2.WinForms.Guna2Button guna2Button2;
-        private Guna.UI2.WinForms.Guna2Button guna2Button3;
-        private Guna.UI2.WinForms.Guna2Button guna2Button4;
-        private Guna.UI2.WinForms.Guna2Button guna2Button5;
-        private Guna.UI2.WinForms.Guna2Button guna2Button6;
+        private Guna.UI2.WinForms.Guna2TabControl TabControlRoutine;
+        private System.Windows.Forms.TabPage MondayRoutine;
+        private System.Windows.Forms.TabPage TuesdayRoutine;
+        private System.Windows.Forms.TabPage WednesdayRoutine;
+        private System.Windows.Forms.TabPage ThursdayRoutine;
+        private System.Windows.Forms.TabPage FridayRoutine;
+        private System.Windows.Forms.TabPage SaturdayRoutine;
+        private System.Windows.Forms.TabPage SundayRoutine;
     }
 }

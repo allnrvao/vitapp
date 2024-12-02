@@ -112,3 +112,38 @@ C:\Users\Armando Valdivia\Desktop\VitAppAllan - copia\vitapp\VitApp 0.1.0\obj\De
 C:\Users\Armando Valdivia\Desktop\VitAppAllan - copia\vitapp\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.Up2Date
 C:\Users\Armando Valdivia\Desktop\VitAppAllan - copia\vitapp\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.exe
 C:\Users\Armando Valdivia\Desktop\VitAppAllan - copia\vitapp\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.pdb
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.exe.config
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.exe
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\VitApp 0.1.0.pdb
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\ExcelDataReader.dll
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\Guna.UI2.dll
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\ExcelDataReader.pdb
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\ExcelDataReader.xml
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.FormLoging.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FrmSetting.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FrmCreateAccount.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.forms_cuestionarios.FormEstadoFisico.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.forms_cuestionarios.FrmTest1.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmDiet.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmProgress.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmRecomendation.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal.FrmRoutine.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FrmLogOut.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.FrmProfile.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Otros_forms.PrincipalScreen.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp_0._1._0.Properties.Resources.resources
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp 1.csproj.Up2Date
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.exe
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\obj\Debug\VitApp 0.1.0.pdb
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\Resources\DietActive.txt
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\Resources\DietLittleActive.txt
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\Resources\DietVeryActive.txt
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\Resources\RoutineActive.txt
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\Resources\RoutineLittleActive.txt
+C:\Users\Dell\Desktop\vitapp_Armando\VitApp 0.1.0\bin\Debug\Resources\RoutineVeryActive.txt

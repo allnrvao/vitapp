@@ -1,0 +1,38 @@
+#Lunes
+Entrenamiento HIIT intenso (40 min)
+Pesas pesadas (40 min)
+Cardio de alta intensidad (30 min)
+Estiramientos de flexibilidad avanzada (15 min)
+
+#Martes
+Correr a alta velocidad (45 min)
+Entrenamiento de fuerza (45 min)
+Sprints (20 min)
+Yoga avanzado para fuerza y flexibilidad (20 min)
+
+#Miercoles
+Circuito de fuerza total (60 min)
+Pesas para todo el cuerpo (40 min)
+HIIT avanzado (30 min)
+Estiramientos para espalda y piernas (15 min)
+
+#Jueves
+Natacion de alta intensidad (50 min)
+Ciclismo rapido (40 min)
+Ejercicios avanzados de tonificacion de abdomen (20 min)
+Yoga avanzado (20 min)
+
+#Viernes
+Crossfit avanzado (60 min)
+Entrenamiento funcional intenso (40 min)
+Caminata rapida con resistencia (15 min)
+HIIT de alta intensidad (20 min)
+
+#Sabado
+Deportes competitivos o actividad de alta intensidad (90 min)
+Entrenamiento con pesas pesadas (45 min)
+Cardio intenso (30 min)
+Estiramientos avanzados para todo el cuerpo (20 min)
+
+#Domingo
+Descanso. Deja que tu cuerpo se recupere.

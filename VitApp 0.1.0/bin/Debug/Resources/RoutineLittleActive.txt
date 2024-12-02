@@ -1,0 +1,38 @@
+#Lunes
+Caminar a paso moderado (30 min)
+Estiramientos suaves (15 min)
+Ejercicios de movilidad (15 min)
+Respiración y relajación (15 min)
+
+#Martes
+Bicicleta estatica suave (20 min)
+Ejercicios de movilidad articular (15 min)
+Estiramientos de piernas (15 min)
+Yoga suave (15 min)
+
+#Miercoles
+Caminata ligera (30 min)
+Ejercicios de estiramiento para espalda y hombros (15 min)
+Movilidad articular (10 min)
+Ejercicios de respiración (10 min)
+
+#Jueves
+Natacion suave (30 min)
+Ejercicios de estiramiento de piernas (15 min)
+Caminata ligera (20 min)
+Estiramientos para hombros y cuello (10 min)
+
+#Viernes
+Ejercicios de tonificacion de brazos con pesas ligeras (20 min)
+Estiramientos de piernas (15 min)
+Caminata ligera (20 min)
+Respiracion y relajación (10 min)
+
+#Sabado
+Caminata ligera al aire libre (30 min)
+Estiramientos de espalda (15 min)
+Ejercicios de movilidad para caderas (15 min)
+Yoga suave para relajacion (10 min)
+
+#Domingo
+Descanso. Aprovecha para relajarte.
