@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal
+namespace VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal 
 {
     public partial class FrmDiet : Form
     {
@@ -63,6 +63,11 @@ namespace VitApp_0._1._0.Otros_forms.Forms_Pantalla_principal
             FrmRecomendation frmRecomendation = new FrmRecomendation();
             frmRecomendation.ShowDialog();
             this.Close();
+        }
+
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

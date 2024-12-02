@@ -29,10 +29,8 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmRoutine));
             this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
             this.guna2ControlBox3 = new Guna.UI2.WinForms.Guna2ControlBox();
-            this.guna2ControlBox2 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2ControlBox1 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.label1 = new System.Windows.Forms.Label();
             this.guna2GradientTileButton3 = new Guna.UI2.WinForms.Guna2GradientTileButton();
@@ -43,26 +41,24 @@
             this.guna2GradientTileButton6 = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.guna2GradientTileButton7 = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.guna2CheckBox1 = new Guna.UI2.WinForms.Guna2CheckBox();
-            this.label15 = new System.Windows.Forms.Label();
-            this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2TabControl1 = new Guna.UI2.WinForms.Guna2TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
-            this.tabPage6 = new System.Windows.Forms.TabPage();
-            this.tabPage7 = new System.Windows.Forms.TabPage();
             this.BtnChangeRutine = new Guna.UI2.WinForms.Guna2Button();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
             this.guna2Button3 = new Guna.UI2.WinForms.Guna2Button();
+            this.tabPage5 = new System.Windows.Forms.TabPage();
             this.guna2Button4 = new Guna.UI2.WinForms.Guna2Button();
+            this.tabPage6 = new System.Windows.Forms.TabPage();
             this.guna2Button5 = new Guna.UI2.WinForms.Guna2Button();
+            this.tabPage7 = new System.Windows.Forms.TabPage();
             this.guna2Button6 = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2CheckBox1 = new Guna.UI2.WinForms.Guna2CheckBox();
+            this.label15 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
             this.guna2TabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -85,21 +81,10 @@
             this.guna2ControlBox3.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
             this.guna2ControlBox3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox3.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox3.Location = new System.Drawing.Point(919, 12);
+            this.guna2ControlBox3.Location = new System.Drawing.Point(970, 12);
             this.guna2ControlBox3.Name = "guna2ControlBox3";
             this.guna2ControlBox3.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox3.TabIndex = 55;
-            // 
-            // guna2ControlBox2
-            // 
-            this.guna2ControlBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.guna2ControlBox2.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MaximizeBox;
-            this.guna2ControlBox2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
-            this.guna2ControlBox2.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox2.Location = new System.Drawing.Point(981, 12);
-            this.guna2ControlBox2.Name = "guna2ControlBox2";
-            this.guna2ControlBox2.Size = new System.Drawing.Size(45, 29);
-            this.guna2ControlBox2.TabIndex = 54;
             // 
             // guna2ControlBox1
             // 
@@ -250,48 +235,6 @@
             this.groupBox1.TabIndex = 59;
             this.groupBox1.TabStop = false;
             // 
-            // guna2CheckBox1
-            // 
-            this.guna2CheckBox1.AutoSize = true;
-            this.guna2CheckBox1.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2CheckBox1.CheckedState.BorderRadius = 0;
-            this.guna2CheckBox1.CheckedState.BorderThickness = 0;
-            this.guna2CheckBox1.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
-            this.guna2CheckBox1.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
-            this.guna2CheckBox1.ForeColor = System.Drawing.Color.White;
-            this.guna2CheckBox1.Location = new System.Drawing.Point(17, 434);
-            this.guna2CheckBox1.Name = "guna2CheckBox1";
-            this.guna2CheckBox1.Size = new System.Drawing.Size(174, 27);
-            this.guna2CheckBox1.TabIndex = 60;
-            this.guna2CheckBox1.Text = "Día completado";
-            this.guna2CheckBox1.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
-            this.guna2CheckBox1.UncheckedState.BorderRadius = 0;
-            this.guna2CheckBox1.UncheckedState.BorderThickness = 0;
-            this.guna2CheckBox1.UncheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
-            // 
-            // label15
-            // 
-            this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Arial Black", 6F, System.Drawing.FontStyle.Bold);
-            this.label15.ForeColor = System.Drawing.Color.White;
-            this.label15.Location = new System.Drawing.Point(967, 122);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(131, 17);
-            this.label15.TabIndex = 109;
-            this.label15.Text = "Nombre de usuario";
-            // 
-            // guna2CirclePictureBox1
-            // 
-            this.guna2CirclePictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2CirclePictureBox1.Image")));
-            this.guna2CirclePictureBox1.ImageRotate = 0F;
-            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(1001, 59);
-            this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(63, 60);
-            this.guna2CirclePictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2CirclePictureBox1.TabIndex = 108;
-            this.guna2CirclePictureBox1.TabStop = false;
-            // 
             // guna2TabControl1
             // 
             this.guna2TabControl1.Alignment = System.Windows.Forms.TabAlignment.Left;
@@ -337,69 +280,6 @@
             this.tabPage1.Text = "Lunes";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
-            // tabPage2
-            // 
-            this.tabPage2.Controls.Add(this.guna2Button1);
-            this.tabPage2.Location = new System.Drawing.Point(184, 4);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(626, 394);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Martes";
-            this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // tabPage3
-            // 
-            this.tabPage3.Controls.Add(this.guna2Button2);
-            this.tabPage3.Location = new System.Drawing.Point(184, 4);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(626, 394);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Miércoles";
-            this.tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // tabPage4
-            // 
-            this.tabPage4.Controls.Add(this.guna2Button3);
-            this.tabPage4.Location = new System.Drawing.Point(184, 4);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(626, 394);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "Jueves";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
-            // tabPage5
-            // 
-            this.tabPage5.Controls.Add(this.guna2Button4);
-            this.tabPage5.Location = new System.Drawing.Point(184, 4);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(626, 394);
-            this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "Viernes";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
-            // tabPage6
-            // 
-            this.tabPage6.Controls.Add(this.guna2Button5);
-            this.tabPage6.Location = new System.Drawing.Point(184, 4);
-            this.tabPage6.Name = "tabPage6";
-            this.tabPage6.Size = new System.Drawing.Size(626, 394);
-            this.tabPage6.TabIndex = 5;
-            this.tabPage6.Text = "Sábado ";
-            this.tabPage6.UseVisualStyleBackColor = true;
-            // 
-            // tabPage7
-            // 
-            this.tabPage7.BackColor = System.Drawing.Color.White;
-            this.tabPage7.Controls.Add(this.guna2Button6);
-            this.tabPage7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
-            this.tabPage7.Location = new System.Drawing.Point(184, 4);
-            this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(626, 394);
-            this.tabPage7.TabIndex = 6;
-            this.tabPage7.Text = "Domingo";
-            this.tabPage7.UseVisualStyleBackColor = true;
-            // 
             // BtnChangeRutine
             // 
             this.BtnChangeRutine.Animated = true;
@@ -417,6 +297,17 @@
             this.BtnChangeRutine.Size = new System.Drawing.Size(180, 45);
             this.BtnChangeRutine.TabIndex = 111;
             this.BtnChangeRutine.Text = "Cambiar";
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.Controls.Add(this.guna2Button1);
+            this.tabPage2.Location = new System.Drawing.Point(184, 4);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(626, 394);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "Martes";
+            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // guna2Button1
             // 
@@ -436,6 +327,16 @@
             this.guna2Button1.TabIndex = 111;
             this.guna2Button1.Text = "Cambiar";
             // 
+            // tabPage3
+            // 
+            this.tabPage3.Controls.Add(this.guna2Button2);
+            this.tabPage3.Location = new System.Drawing.Point(184, 4);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Size = new System.Drawing.Size(626, 394);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "Miércoles";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            // 
             // guna2Button2
             // 
             this.guna2Button2.Animated = true;
@@ -453,6 +354,16 @@
             this.guna2Button2.Size = new System.Drawing.Size(180, 45);
             this.guna2Button2.TabIndex = 111;
             this.guna2Button2.Text = "Cambiar";
+            // 
+            // tabPage4
+            // 
+            this.tabPage4.Controls.Add(this.guna2Button3);
+            this.tabPage4.Location = new System.Drawing.Point(184, 4);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Size = new System.Drawing.Size(626, 394);
+            this.tabPage4.TabIndex = 3;
+            this.tabPage4.Text = "Jueves";
+            this.tabPage4.UseVisualStyleBackColor = true;
             // 
             // guna2Button3
             // 
@@ -472,6 +383,16 @@
             this.guna2Button3.TabIndex = 111;
             this.guna2Button3.Text = "Cambiar";
             // 
+            // tabPage5
+            // 
+            this.tabPage5.Controls.Add(this.guna2Button4);
+            this.tabPage5.Location = new System.Drawing.Point(184, 4);
+            this.tabPage5.Name = "tabPage5";
+            this.tabPage5.Size = new System.Drawing.Size(626, 394);
+            this.tabPage5.TabIndex = 4;
+            this.tabPage5.Text = "Viernes";
+            this.tabPage5.UseVisualStyleBackColor = true;
+            // 
             // guna2Button4
             // 
             this.guna2Button4.Animated = true;
@@ -489,6 +410,16 @@
             this.guna2Button4.Size = new System.Drawing.Size(180, 45);
             this.guna2Button4.TabIndex = 111;
             this.guna2Button4.Text = "Cambiar";
+            // 
+            // tabPage6
+            // 
+            this.tabPage6.Controls.Add(this.guna2Button5);
+            this.tabPage6.Location = new System.Drawing.Point(184, 4);
+            this.tabPage6.Name = "tabPage6";
+            this.tabPage6.Size = new System.Drawing.Size(626, 394);
+            this.tabPage6.TabIndex = 5;
+            this.tabPage6.Text = "Sábado ";
+            this.tabPage6.UseVisualStyleBackColor = true;
             // 
             // guna2Button5
             // 
@@ -508,6 +439,18 @@
             this.guna2Button5.TabIndex = 111;
             this.guna2Button5.Text = "Cambiar";
             // 
+            // tabPage7
+            // 
+            this.tabPage7.BackColor = System.Drawing.Color.White;
+            this.tabPage7.Controls.Add(this.guna2Button6);
+            this.tabPage7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
+            this.tabPage7.Location = new System.Drawing.Point(184, 4);
+            this.tabPage7.Name = "tabPage7";
+            this.tabPage7.Size = new System.Drawing.Size(626, 394);
+            this.tabPage7.TabIndex = 6;
+            this.tabPage7.Text = "Domingo";
+            this.tabPage7.UseVisualStyleBackColor = true;
+            // 
             // guna2Button6
             // 
             this.guna2Button6.Animated = true;
@@ -526,19 +469,47 @@
             this.guna2Button6.TabIndex = 111;
             this.guna2Button6.Text = "Cambiar";
             // 
+            // guna2CheckBox1
+            // 
+            this.guna2CheckBox1.AutoSize = true;
+            this.guna2CheckBox1.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2CheckBox1.CheckedState.BorderRadius = 0;
+            this.guna2CheckBox1.CheckedState.BorderThickness = 0;
+            this.guna2CheckBox1.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(94)))), ((int)(((byte)(148)))), ((int)(((byte)(255)))));
+            this.guna2CheckBox1.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
+            this.guna2CheckBox1.ForeColor = System.Drawing.Color.White;
+            this.guna2CheckBox1.Location = new System.Drawing.Point(17, 434);
+            this.guna2CheckBox1.Name = "guna2CheckBox1";
+            this.guna2CheckBox1.Size = new System.Drawing.Size(174, 27);
+            this.guna2CheckBox1.TabIndex = 60;
+            this.guna2CheckBox1.Text = "Día completado";
+            this.guna2CheckBox1.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
+            this.guna2CheckBox1.UncheckedState.BorderRadius = 0;
+            this.guna2CheckBox1.UncheckedState.BorderThickness = 0;
+            this.guna2CheckBox1.UncheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Arial Black", 6F, System.Drawing.FontStyle.Bold);
+            this.label15.ForeColor = System.Drawing.Color.White;
+            this.label15.Location = new System.Drawing.Point(955, 69);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(131, 17);
+            this.label15.TabIndex = 109;
+            this.label15.Text = "Nombre de usuario";
+            // 
             // FrmRoutine
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
             this.ClientSize = new System.Drawing.Size(1106, 637);
             this.Controls.Add(this.label15);
-            this.Controls.Add(this.guna2CirclePictureBox1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.guna2GradientTileButton7);
             this.Controls.Add(this.guna2GradientTileButton6);
             this.Controls.Add(this.guna2GradientTileButton5);
             this.Controls.Add(this.guna2ControlBox3);
-            this.Controls.Add(this.guna2ControlBox2);
             this.Controls.Add(this.guna2ControlBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.guna2GradientTileButton3);
@@ -551,7 +522,6 @@
             this.Text = "FrmRoutine";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
             this.guna2TabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
@@ -569,7 +539,6 @@
 
         private Guna.UI2.WinForms.Guna2BorderlessForm guna2BorderlessForm1;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox3;
-        private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox2;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox1;
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2GradientTileButton guna2GradientTileButton3;
@@ -582,7 +551,6 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private Guna.UI2.WinForms.Guna2CheckBox guna2CheckBox1;
         private System.Windows.Forms.Label label15;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
         private Guna.UI2.WinForms.Guna2TabControl guna2TabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;

@@ -48,6 +48,14 @@
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.label15 = new System.Windows.Forms.Label();
             this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
+            this.LblRecomendation1 = new System.Windows.Forms.Label();
+            this.LblRecomendation4 = new System.Windows.Forms.Label();
+            this.LblRecomendation3 = new System.Windows.Forms.Label();
+            this.LblRecomendation2 = new System.Windows.Forms.Label();
+            this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.groupBox4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -222,6 +230,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.LblRecomendation1);
             this.groupBox1.Location = new System.Drawing.Point(262, 136);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(327, 203);
@@ -230,6 +239,7 @@
             // 
             // groupBox2
             // 
+            this.groupBox2.Controls.Add(this.LblRecomendation2);
             this.groupBox2.Location = new System.Drawing.Point(688, 136);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(327, 203);
@@ -238,6 +248,7 @@
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.LblRecomendation4);
             this.groupBox3.Location = new System.Drawing.Point(688, 386);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(327, 203);
@@ -246,6 +257,7 @@
             // 
             // groupBox4
             // 
+            this.groupBox4.Controls.Add(this.LblRecomendation3);
             this.groupBox4.Location = new System.Drawing.Point(262, 386);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(327, 203);
@@ -275,6 +287,50 @@
             this.guna2CirclePictureBox1.TabIndex = 108;
             this.guna2CirclePictureBox1.TabStop = false;
             // 
+            // LblRecomendation1
+            // 
+            this.LblRecomendation1.AutoSize = true;
+            this.LblRecomendation1.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblRecomendation1.ForeColor = System.Drawing.Color.White;
+            this.LblRecomendation1.Location = new System.Drawing.Point(27, 33);
+            this.LblRecomendation1.Name = "LblRecomendation1";
+            this.LblRecomendation1.Size = new System.Drawing.Size(64, 23);
+            this.LblRecomendation1.TabIndex = 0;
+            this.LblRecomendation1.Text = "label2";
+            // 
+            // LblRecomendation4
+            // 
+            this.LblRecomendation4.AutoSize = true;
+            this.LblRecomendation4.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblRecomendation4.ForeColor = System.Drawing.Color.White;
+            this.LblRecomendation4.Location = new System.Drawing.Point(6, 32);
+            this.LblRecomendation4.Name = "LblRecomendation4";
+            this.LblRecomendation4.Size = new System.Drawing.Size(64, 23);
+            this.LblRecomendation4.TabIndex = 1;
+            this.LblRecomendation4.Text = "label3";
+            // 
+            // LblRecomendation3
+            // 
+            this.LblRecomendation3.AutoSize = true;
+            this.LblRecomendation3.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblRecomendation3.ForeColor = System.Drawing.Color.White;
+            this.LblRecomendation3.Location = new System.Drawing.Point(6, 22);
+            this.LblRecomendation3.Name = "LblRecomendation3";
+            this.LblRecomendation3.Size = new System.Drawing.Size(64, 23);
+            this.LblRecomendation3.TabIndex = 2;
+            this.LblRecomendation3.Text = "label4";
+            // 
+            // LblRecomendation2
+            // 
+            this.LblRecomendation2.AutoSize = true;
+            this.LblRecomendation2.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblRecomendation2.ForeColor = System.Drawing.Color.White;
+            this.LblRecomendation2.Location = new System.Drawing.Point(6, 22);
+            this.LblRecomendation2.Name = "LblRecomendation2";
+            this.LblRecomendation2.Size = new System.Drawing.Size(64, 23);
+            this.LblRecomendation2.TabIndex = 3;
+            this.LblRecomendation2.Text = "label5";
+            // 
             // FrmRecomendation
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -301,6 +357,14 @@
             this.Name = "FrmRecomendation";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmRecomendation";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -327,5 +391,9 @@
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Label label15;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
+        private System.Windows.Forms.Label LblRecomendation1;
+        private System.Windows.Forms.Label LblRecomendation4;
+        private System.Windows.Forms.Label LblRecomendation3;
+        private System.Windows.Forms.Label LblRecomendation2;
     }
 }

@@ -37,8 +37,6 @@
             this.TbUserPassword = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2VSeparator1 = new Guna.UI2.WinForms.Guna2VSeparator();
             this.label1 = new System.Windows.Forms.Label();
-            this.BtnRemember = new Guna.UI2.WinForms.Guna2ToggleSwitch();
-            this.label2 = new System.Windows.Forms.Label();
             this.BtnCreateAccount = new Guna.UI2.WinForms.Guna2Button();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -83,7 +81,7 @@
             this.BtnLogIn.Font = new System.Drawing.Font("Segoe UI Black", 9F, System.Drawing.FontStyle.Bold);
             this.BtnLogIn.ForeColor = System.Drawing.Color.White;
             this.BtnLogIn.IndicateFocus = true;
-            this.BtnLogIn.Location = new System.Drawing.Point(69, 372);
+            this.BtnLogIn.Location = new System.Drawing.Point(69, 340);
             this.BtnLogIn.Name = "BtnLogIn";
             this.BtnLogIn.Size = new System.Drawing.Size(110, 36);
             this.BtnLogIn.TabIndex = 1;
@@ -161,32 +159,6 @@
             this.label1.TabIndex = 9;
             this.label1.Text = "Contraseña";
             // 
-            // BtnRemember
-            // 
-            this.BtnRemember.Checked = true;
-            this.BtnRemember.CheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.BtnRemember.CheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(142)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
-            this.BtnRemember.CheckedState.InnerBorderColor = System.Drawing.Color.White;
-            this.BtnRemember.CheckedState.InnerColor = System.Drawing.Color.White;
-            this.BtnRemember.Location = new System.Drawing.Point(97, 326);
-            this.BtnRemember.Name = "BtnRemember";
-            this.BtnRemember.Size = new System.Drawing.Size(54, 20);
-            this.BtnRemember.TabIndex = 10;
-            this.BtnRemember.UncheckedState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
-            this.BtnRemember.UncheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
-            this.BtnRemember.UncheckedState.InnerBorderColor = System.Drawing.Color.White;
-            this.BtnRemember.UncheckedState.InnerColor = System.Drawing.Color.White;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(142)))), ((int)(((byte)(179)))), ((int)(((byte)(162)))));
-            this.label2.Location = new System.Drawing.Point(157, 326);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(119, 20);
-            this.label2.TabIndex = 11;
-            this.label2.Text = "Recordar datos";
-            // 
             // BtnCreateAccount
             // 
             this.BtnCreateAccount.Animated = true;
@@ -201,7 +173,7 @@
             this.BtnCreateAccount.Font = new System.Drawing.Font("Segoe UI Black", 9F, System.Drawing.FontStyle.Bold);
             this.BtnCreateAccount.ForeColor = System.Drawing.Color.White;
             this.BtnCreateAccount.IndicateFocus = true;
-            this.BtnCreateAccount.Location = new System.Drawing.Point(210, 372);
+            this.BtnCreateAccount.Location = new System.Drawing.Point(210, 340);
             this.BtnCreateAccount.Name = "BtnCreateAccount";
             this.BtnCreateAccount.Size = new System.Drawing.Size(154, 36);
             this.BtnCreateAccount.TabIndex = 12;
@@ -286,8 +258,6 @@
             this.Controls.Add(this.guna2PictureBox1);
             this.Controls.Add(this.guna2HtmlLabel1);
             this.Controls.Add(this.BtnCreateAccount);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.BtnRemember);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.guna2VSeparator1);
             this.Controls.Add(this.TbUserPassword);
@@ -317,8 +287,6 @@
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2VSeparator guna2VSeparator1;
-        private System.Windows.Forms.Label label2;
-        private Guna.UI2.WinForms.Guna2ToggleSwitch BtnRemember;
         private Guna.UI2.WinForms.Guna2Button BtnCreateAccount;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;

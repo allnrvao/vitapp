@@ -153,58 +153,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BtnBack.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>16</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>866, 613</value>
-  </data>
-  <data name="guna2Button1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 9pt</value>
-  </data>
-  <data name="guna2Button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>565, 348</value>
-  </data>
-  <data name="guna2Button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 45</value>
-  </data>
-  <data name="guna2Button1.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
-  </data>
-  <data name="guna2Button1.Text" xml:space="preserve">
-    <value>Subir</value>
-  </data>
-  <data name="&gt;&gt;guna2Button1.Name" xml:space="preserve">
-    <value>guna2Button1</value>
-  </data>
-  <data name="&gt;&gt;guna2Button1.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2Button, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2Button1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;guna2Button1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="guna2CirclePictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>540, 89</value>
-  </data>
-  <data name="guna2CirclePictureBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>239, 220</value>
-  </data>
-  <data name="guna2CirclePictureBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>23</value>
-  </data>
-  <data name="&gt;&gt;guna2CirclePictureBox1.Name" xml:space="preserve">
-    <value>guna2CirclePictureBox1</value>
-  </data>
-  <data name="&gt;&gt;guna2CirclePictureBox1.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2CirclePictureBox, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2CirclePictureBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;guna2CirclePictureBox1.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>751, 613</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="BtnNext.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -214,7 +166,7 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="BtnNext.Location" type="System.Drawing.Point, System.Drawing">
-    <value>742, 561</value>
+    <value>627, 561</value>
   </data>
   <data name="BtnNext.Size" type="System.Drawing.Size, System.Drawing">
     <value>112, 36</value>
@@ -235,7 +187,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BtnNext.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>1</value>
   </data>
   <data name="label8.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -268,7 +220,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>2</value>
   </data>
   <data name="label7.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -283,7 +235,7 @@
     <value>NoControl</value>
   </data>
   <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>173, 13</value>
+    <value>115, 13</value>
   </data>
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
     <value>419, 59</value>
@@ -304,7 +256,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>3</value>
   </data>
   <data name="DtpBirthDate.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -313,7 +265,7 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="DtpBirthDate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>115, 348</value>
+    <value>151, 343</value>
   </data>
   <data name="DtpBirthDate.Size" type="System.Drawing.Size, System.Drawing">
     <value>354, 36</value>
@@ -331,7 +283,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;DtpBirthDate.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>4</value>
   </data>
   <data name="TbPassword.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -340,7 +292,7 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="TbPassword.Location" type="System.Drawing.Point, System.Drawing">
-    <value>183, 412</value>
+    <value>219, 407</value>
   </data>
   <data name="TbPassword.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 5, 4, 5</value>
@@ -361,7 +313,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;TbPassword.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>5</value>
   </data>
   <data name="TbPhone.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -370,7 +322,7 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="TbPhone.Location" type="System.Drawing.Point, System.Drawing">
-    <value>183, 246</value>
+    <value>219, 241</value>
   </data>
   <data name="TbPhone.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 5, 4, 5</value>
@@ -391,7 +343,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;TbPhone.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>6</value>
   </data>
   <data name="TbLastName.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -400,7 +352,7 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="TbLastName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>183, 178</value>
+    <value>219, 173</value>
   </data>
   <data name="TbLastName.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 5, 4, 5</value>
@@ -421,7 +373,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;TbLastName.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>7</value>
   </data>
   <data name="TbVerifyPassword.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -430,7 +382,7 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="TbVerifyPassword.Location" type="System.Drawing.Point, System.Drawing">
-    <value>183, 487</value>
+    <value>219, 482</value>
   </data>
   <data name="TbVerifyPassword.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 5, 4, 5</value>
@@ -451,7 +403,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;TbVerifyPassword.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>8</value>
   </data>
   <data name="Tbname.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -460,7 +412,7 @@
     <value>Segoe UI, 9pt</value>
   </data>
   <data name="Tbname.Location" type="System.Drawing.Point, System.Drawing">
-    <value>183, 106</value>
+    <value>219, 101</value>
   </data>
   <data name="Tbname.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 5, 4, 5</value>
@@ -481,7 +433,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;Tbname.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>9</value>
   </data>
   <data name="label6.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -492,8 +444,11 @@
   <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial, 10pt, style=Bold</value>
   </data>
+  <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>81, 487</value>
+    <value>117, 482</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
     <value>95, 24</value>
@@ -514,7 +469,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>10</value>
   </data>
   <data name="label5.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -525,8 +480,11 @@
   <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial, 10pt, style=Bold</value>
   </data>
+  <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>50, 422</value>
+    <value>86, 417</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
     <value>126, 24</value>
@@ -547,7 +505,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>11</value>
   </data>
   <data name="label4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -558,8 +516,11 @@
   <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial, 10pt, style=Bold</value>
   </data>
+  <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>190, 312</value>
+    <value>226, 307</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
     <value>212, 24</value>
@@ -580,7 +541,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>12</value>
   </data>
   <data name="label3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -591,8 +552,11 @@
   <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial, 10pt, style=Bold</value>
   </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>93, 256</value>
+    <value>129, 251</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>83, 24</value>
@@ -613,7 +577,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>13</value>
   </data>
   <data name="label2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -624,8 +588,11 @@
   <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial, 10pt, style=Bold</value>
   </data>
+  <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>84, 178</value>
+    <value>120, 173</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
     <value>92, 24</value>
@@ -646,7 +613,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>14</value>
   </data>
   <data name="label1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top</value>
@@ -657,8 +624,11 @@
   <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Arial, 10pt, style=Bold</value>
   </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>85, 108</value>
+    <value>121, 103</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>91, 24</value>
@@ -679,13 +649,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>15</value>
   </data>
   <data name="guna2ControlBox3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
   <data name="guna2ControlBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>676, 12</value>
+    <value>627, 13</value>
   </data>
   <data name="guna2ControlBox3.Size" type="System.Drawing.Size, System.Drawing">
     <value>45, 29</value>
@@ -703,37 +673,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;guna2ControlBox3.ZOrder" xml:space="preserve">
-    <value>19</value>
-  </data>
-  <data name="guna2ControlBox2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Right</value>
-  </data>
-  <data name="guna2ControlBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>746, 12</value>
-  </data>
-  <data name="guna2ControlBox2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 29</value>
-  </data>
-  <data name="guna2ControlBox2.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;guna2ControlBox2.Name" xml:space="preserve">
-    <value>guna2ControlBox2</value>
-  </data>
-  <data name="&gt;&gt;guna2ControlBox2.Type" xml:space="preserve">
-    <value>Guna.UI2.WinForms.Guna2ControlBox, Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261</value>
-  </data>
-  <data name="&gt;&gt;guna2ControlBox2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;guna2ControlBox2.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>17</value>
   </data>
   <data name="guna2ControlBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
   <data name="guna2ControlBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>809, 12</value>
+    <value>694, 12</value>
   </data>
   <data name="guna2ControlBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>45, 29</value>
@@ -751,7 +697,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;guna2ControlBox1.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>18</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>

@@ -29,10 +29,8 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmProfile));
             this.guna2BorderlessForm1 = new Guna.UI2.WinForms.Guna2BorderlessForm(this.components);
             this.guna2ControlBox3 = new Guna.UI2.WinForms.Guna2ControlBox();
-            this.guna2ControlBox2 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.guna2ControlBox1 = new Guna.UI2.WinForms.Guna2ControlBox();
             this.Recomendantion = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.BtnProgress = new Guna.UI2.WinForms.Guna2GradientTileButton();
@@ -42,22 +40,18 @@
             this.BtnPScreen = new Guna.UI2.WinForms.Guna2GradientTileButton();
             this.label1 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
-            this.BtnEditPhoto = new Guna.UI2.WinForms.Guna2Button();
             this.label5 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
+            this.LblPhysicStatus = new System.Windows.Forms.Label();
+            this.LblHigh = new System.Windows.Forms.Label();
+            this.LblWeight = new System.Windows.Forms.Label();
+            this.LblAge = new System.Windows.Forms.Label();
+            this.LblLastName = new System.Windows.Forms.Label();
+            this.LblName = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // guna2BorderlessForm1
@@ -72,28 +66,17 @@
             this.guna2ControlBox3.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MinimizeBox;
             this.guna2ControlBox3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox3.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox3.Location = new System.Drawing.Point(773, 12);
+            this.guna2ControlBox3.Location = new System.Drawing.Point(369, 12);
             this.guna2ControlBox3.Name = "guna2ControlBox3";
             this.guna2ControlBox3.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox3.TabIndex = 69;
-            // 
-            // guna2ControlBox2
-            // 
-            this.guna2ControlBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.guna2ControlBox2.ControlBoxType = Guna.UI2.WinForms.Enums.ControlBoxType.MaximizeBox;
-            this.guna2ControlBox2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
-            this.guna2ControlBox2.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox2.Location = new System.Drawing.Point(835, 12);
-            this.guna2ControlBox2.Name = "guna2ControlBox2";
-            this.guna2ControlBox2.Size = new System.Drawing.Size(45, 29);
-            this.guna2ControlBox2.TabIndex = 68;
             // 
             // guna2ControlBox1
             // 
             this.guna2ControlBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2ControlBox1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(58)))), ((int)(((byte)(87)))), ((int)(((byte)(82)))));
             this.guna2ControlBox1.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox1.Location = new System.Drawing.Point(895, 12);
+            this.guna2ControlBox1.Location = new System.Drawing.Point(491, 12);
             this.guna2ControlBox1.Name = "guna2ControlBox1";
             this.guna2ControlBox1.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox1.TabIndex = 67;
@@ -228,37 +211,6 @@
             this.label8.TabIndex = 85;
             this.label8.Text = "VitApp";
             // 
-            // guna2CirclePictureBox1
-            // 
-            this.guna2CirclePictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("guna2CirclePictureBox1.Image")));
-            this.guna2CirclePictureBox1.ImageRotate = 0F;
-            this.guna2CirclePictureBox1.Location = new System.Drawing.Point(643, 108);
-            this.guna2CirclePictureBox1.Name = "guna2CirclePictureBox1";
-            this.guna2CirclePictureBox1.ShadowDecoration.Mode = Guna.UI2.WinForms.Enums.ShadowMode.Circle;
-            this.guna2CirclePictureBox1.Size = new System.Drawing.Size(237, 226);
-            this.guna2CirclePictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.guna2CirclePictureBox1.TabIndex = 87;
-            this.guna2CirclePictureBox1.TabStop = false;
-            // 
-            // BtnEditPhoto
-            // 
-            this.BtnEditPhoto.Animated = true;
-            this.BtnEditPhoto.AutoRoundedCorners = true;
-            this.BtnEditPhoto.BorderRadius = 21;
-            this.BtnEditPhoto.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.BtnEditPhoto.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.BtnEditPhoto.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.BtnEditPhoto.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.BtnEditPhoto.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.BtnEditPhoto.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnEditPhoto.ForeColor = System.Drawing.Color.White;
-            this.BtnEditPhoto.Location = new System.Drawing.Point(673, 370);
-            this.BtnEditPhoto.Name = "BtnEditPhoto";
-            this.BtnEditPhoto.Size = new System.Drawing.Size(180, 45);
-            this.BtnEditPhoto.TabIndex = 88;
-            this.BtnEditPhoto.Text = "Editar foto";
-            this.BtnEditPhoto.Click += new System.EventHandler(this.guna2Button1_Click);
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -325,110 +277,89 @@
             this.label7.TabIndex = 97;
             this.label7.Text = "Estado físico:";
             // 
-            // guna2Button1
+            // LblPhysicStatus
             // 
-            this.guna2Button1.Animated = true;
-            this.guna2Button1.AutoRoundedCorners = true;
-            this.guna2Button1.BorderRadius = 21;
-            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(84)))), ((int)(((byte)(123)))), ((int)(((byte)(114)))));
-            this.guna2Button1.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(365, 529);
-            this.guna2Button1.Name = "guna2Button1";
-            this.guna2Button1.Size = new System.Drawing.Size(180, 45);
-            this.guna2Button1.TabIndex = 98;
-            this.guna2Button1.Text = "Editar datos";
+            this.LblPhysicStatus.AutoSize = true;
+            this.LblPhysicStatus.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
+            this.LblPhysicStatus.ForeColor = System.Drawing.Color.White;
+            this.LblPhysicStatus.Location = new System.Drawing.Point(374, 461);
+            this.LblPhysicStatus.Name = "LblPhysicStatus";
+            this.LblPhysicStatus.Size = new System.Drawing.Size(125, 23);
+            this.LblPhysicStatus.TabIndex = 99;
+            this.LblPhysicStatus.Text = "Estado físico";
             // 
-            // label9
+            // LblHigh
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
-            this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(374, 461);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(125, 23);
-            this.label9.TabIndex = 99;
-            this.label9.Text = "Estado físico";
+            this.LblHigh.AutoSize = true;
+            this.LblHigh.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
+            this.LblHigh.ForeColor = System.Drawing.Color.White;
+            this.LblHigh.Location = new System.Drawing.Point(339, 407);
+            this.LblHigh.Name = "LblHigh";
+            this.LblHigh.Size = new System.Drawing.Size(95, 23);
+            this.LblHigh.TabIndex = 100;
+            this.LblHigh.Text = "Altura cm";
             // 
-            // label10
+            // LblWeight
             // 
-            this.label10.AutoSize = true;
-            this.label10.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
-            this.label10.ForeColor = System.Drawing.Color.White;
-            this.label10.Location = new System.Drawing.Point(339, 407);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(95, 23);
-            this.label10.TabIndex = 100;
-            this.label10.Text = "Altura cm";
+            this.LblWeight.AutoSize = true;
+            this.LblWeight.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
+            this.LblWeight.ForeColor = System.Drawing.Color.White;
+            this.LblWeight.Location = new System.Drawing.Point(339, 344);
+            this.LblWeight.Name = "LblWeight";
+            this.LblWeight.Size = new System.Drawing.Size(80, 23);
+            this.LblWeight.TabIndex = 101;
+            this.LblWeight.Text = "peso kg";
             // 
-            // label11
+            // LblAge
             // 
-            this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
-            this.label11.ForeColor = System.Drawing.Color.White;
-            this.label11.Location = new System.Drawing.Point(339, 344);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(80, 23);
-            this.label11.TabIndex = 101;
-            this.label11.Text = "peso kg";
+            this.LblAge.AutoSize = true;
+            this.LblAge.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
+            this.LblAge.ForeColor = System.Drawing.Color.White;
+            this.LblAge.Location = new System.Drawing.Point(339, 290);
+            this.LblAge.Name = "LblAge";
+            this.LblAge.Size = new System.Drawing.Size(55, 23);
+            this.LblAge.TabIndex = 102;
+            this.LblAge.Text = "Edad";
             // 
-            // label12
+            // LblLastName
             // 
-            this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
-            this.label12.ForeColor = System.Drawing.Color.White;
-            this.label12.Location = new System.Drawing.Point(339, 290);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(55, 23);
-            this.label12.TabIndex = 102;
-            this.label12.Text = "Edad";
+            this.LblLastName.AutoSize = true;
+            this.LblLastName.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
+            this.LblLastName.ForeColor = System.Drawing.Color.White;
+            this.LblLastName.Location = new System.Drawing.Point(339, 231);
+            this.LblLastName.Name = "LblLastName";
+            this.LblLastName.Size = new System.Drawing.Size(81, 23);
+            this.LblLastName.TabIndex = 103;
+            this.LblLastName.Text = "Apellido";
             // 
-            // label13
+            // LblName
             // 
-            this.label13.AutoSize = true;
-            this.label13.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
-            this.label13.ForeColor = System.Drawing.Color.White;
-            this.label13.Location = new System.Drawing.Point(339, 231);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(81, 23);
-            this.label13.TabIndex = 103;
-            this.label13.Text = "Apellido";
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
-            this.label14.ForeColor = System.Drawing.Color.White;
-            this.label14.Location = new System.Drawing.Point(339, 179);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(79, 23);
-            this.label14.TabIndex = 104;
-            this.label14.Text = "Nombre";
+            this.LblName.AutoSize = true;
+            this.LblName.Font = new System.Drawing.Font("Arial Black", 8F, System.Drawing.FontStyle.Bold);
+            this.LblName.ForeColor = System.Drawing.Color.White;
+            this.LblName.Location = new System.Drawing.Point(339, 179);
+            this.LblName.Name = "LblName";
+            this.LblName.Size = new System.Drawing.Size(79, 23);
+            this.LblName.TabIndex = 104;
+            this.LblName.Text = "Nombre";
             // 
             // FrmProfile
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(37)))), ((int)(((byte)(41)))), ((int)(((byte)(42)))));
-            this.ClientSize = new System.Drawing.Size(948, 643);
-            this.Controls.Add(this.label14);
-            this.Controls.Add(this.label13);
-            this.Controls.Add(this.label12);
-            this.Controls.Add(this.label11);
-            this.Controls.Add(this.label10);
-            this.Controls.Add(this.label9);
-            this.Controls.Add(this.guna2Button1);
+            this.ClientSize = new System.Drawing.Size(544, 643);
+            this.Controls.Add(this.LblName);
+            this.Controls.Add(this.LblLastName);
+            this.Controls.Add(this.LblAge);
+            this.Controls.Add(this.LblWeight);
+            this.Controls.Add(this.LblHigh);
+            this.Controls.Add(this.LblPhysicStatus);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.BtnEditPhoto);
-            this.Controls.Add(this.guna2CirclePictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.Recomendantion);
@@ -438,13 +369,11 @@
             this.Controls.Add(this.BtnLogOut);
             this.Controls.Add(this.BtnPScreen);
             this.Controls.Add(this.guna2ControlBox3);
-            this.Controls.Add(this.guna2ControlBox2);
             this.Controls.Add(this.guna2ControlBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmProfile";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmProfile";
-            ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -454,7 +383,6 @@
 
         private Guna.UI2.WinForms.Guna2BorderlessForm guna2BorderlessForm1;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox3;
-        private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox2;
         private Guna.UI2.WinForms.Guna2ControlBox guna2ControlBox1;
         private Guna.UI2.WinForms.Guna2GradientTileButton Recomendantion;
         private Guna.UI2.WinForms.Guna2GradientTileButton BtnProgress;
@@ -464,15 +392,12 @@
         private Guna.UI2.WinForms.Guna2GradientTileButton BtnPScreen;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label8;
-        private Guna.UI2.WinForms.Guna2Button BtnEditPhoto;
-        private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
-        private System.Windows.Forms.Label label14;
-        private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Label label12;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.Label label9;
-        private Guna.UI2.WinForms.Guna2Button guna2Button1;
+        private System.Windows.Forms.Label LblName;
+        private System.Windows.Forms.Label LblLastName;
+        private System.Windows.Forms.Label LblAge;
+        private System.Windows.Forms.Label LblWeight;
+        private System.Windows.Forms.Label LblHigh;
+        private System.Windows.Forms.Label LblPhysicStatus;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label4;

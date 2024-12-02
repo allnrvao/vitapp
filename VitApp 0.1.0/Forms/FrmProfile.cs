@@ -67,9 +67,10 @@ namespace VitApp_0._1._0.Otros_forms
             this.Close();
         }
 
+
         private void guna2Button1_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }

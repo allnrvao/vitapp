@@ -24,10 +24,13 @@ namespace VitApp_0._1._0.Otros_forms.forms_cuestionarios
             
         }
 
-        User user = new User();
-        Userregistration userregistration = new Userregistration();
+        
         private void BtnNext_Click(object sender, EventArgs e)
         {
+            User user = new User();
+            Userregistration userregistration = new Userregistration();
+
+            Userregistration.UploadUseund();
             AssignPhysicStatus assignPhysicStatus = new AssignPhysicStatus();
             if (Btncalories1.Checked)
             {
@@ -74,7 +77,7 @@ namespace VitApp_0._1._0.Otros_forms.forms_cuestionarios
             { MessageBox.Show("El valor ingresado es demasiado grande o demasiado pequeño.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);  return; }
 
  
-            userregistration.SaveUser1(user);
+            
 
             this.Hide();
             FormEstadoFisico formEstadoFisico = new FormEstadoFisico();
@@ -85,7 +88,7 @@ namespace VitApp_0._1._0.Otros_forms.forms_cuestionarios
 
         private void BtnBack_Click(object sender, EventArgs e)
         {
-            user.Hight = Convert.ToInt32(TbHight.Text);
+            
             this.Hide();
             FrmCreateAccount frmCreateAccount = new FrmCreateAccount();
             frmCreateAccount.ShowDialog();

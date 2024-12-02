@@ -69,4 +69,18 @@ internal class Validations
         return true;
 
     }
+    public static bool Login(string name, string pasword)
+    {
+        var users = Userregistration.UploadUseund();
+        foreach (var usuario in users)
+        {
+            if (usuario.Name == name && usuario.Password == pasword)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
 }
+
+ 

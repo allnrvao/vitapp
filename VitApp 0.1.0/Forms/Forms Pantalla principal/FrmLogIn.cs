@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using VitApp_0._1._0.Clases;
 using VitApp_0._1._0.Classes;
+using VitApp_0._1._0.Models;
 using VitApp_0._1._0.Otros_forms;
 using static VitApp_0._1._0.Classes.Userregistration;
 
@@ -38,22 +39,33 @@ namespace VitApp_0._1._0
         private void BtnLogIn_Click(object sender, EventArgs e)
         {
 
-            string enteredName = TbUser.Text;
-            string enteredPassword = TbUserPassword.Text;
 
-            Userregistration userregistration = new Userregistration();
+            string userName = TbUser.Text;
+            string password = TbUserPassword.Text;
 
-            User foundUser = Userregistration.LookUser(enteredName);
-
-            if (foundUser != null && foundUser.Password == enteredPassword)
+            // Validación de campos vacíos
+            if (string.IsNullOrWhiteSpace(userName) || string.IsNullOrWhiteSpace(password))
             {
-                MessageBox.Show("Inicio de sesión exitoso", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Por favor, ingresa tus datos.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            // Llamar al método Login y verificar credenciales
+            string name = TbUser.Text; // Asumiendo que txtName es el TextBox para el nombre
+            string pasword = TbUserPassword.Text; // Asumiendo que txtPassword es el TextBox para la contraseña
+
+            bool loginSuccess = LogIn.Login(name, pasword);
+
+            if (loginSuccess)
+            {
+                // Si el login es exitoso, puedes cerrar el formulario de login
+                this.Hide(); // Oculta el formulario de login
             }
             else
             {
-                MessageBox.Show("Usuario o contraseña incorrectos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Nombre de usuario o contraseña incorrectos.", "Error de Login", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }
-    
 }
+

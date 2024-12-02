@@ -42,12 +42,32 @@ namespace VitApp_0._1._0.Otros_forms
             // Crear un objeto User con los datos necesarios
             User user = new User
             {
+                Name=Tbname.Text,
                 LastName = TbLastName.Text,
-                Name = TbLastName.Text,
-                Password = TbLastName.Text,
+                Phone=Convert.ToInt32(TbPhone.Text),
+                Password = TbPassword.Text,
                 VerifyPassword = TbVerifyPassword.Text
             };
 
+
+            string password = TbPassword.Text;
+            string confirmPassword = TbVerifyPassword.Text;
+            string lastNam = TbLastName.Text;
+            string number = TbPhone.Text;
+
+
+
+
+            if (string.IsNullOrWhiteSpace(user.Name) || string.IsNullOrWhiteSpace(user.LastName) || string.IsNullOrWhiteSpace(user.Phone.ToString()) || string.IsNullOrWhiteSpace(user.Password) || string.IsNullOrWhiteSpace(user.VerifyPassword))
+            {
+                MessageBox.Show("Ningun campos puede estar vacios.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if (password != confirmPassword)
+            {
+                MessageBox.Show("Verifica si la contraseña es igual.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
             // Validar y convertir el número de teléfono
             if (int.TryParse(TbPhone.Text, out int phone))
             {
@@ -59,6 +79,9 @@ namespace VitApp_0._1._0.Otros_forms
                 return;
             }
 
+
+            Userregistration.SaveUser1(user);
+            MessageBox.Show("Usuario guardado correctamente"); 
 
             try
             {
@@ -76,7 +99,21 @@ namespace VitApp_0._1._0.Otros_forms
             FrmTest1 frmTest1 = new FrmTest1();
             frmTest1.ShowDialog();
             this.Close();
+
+            Userregistration.SaveUser1(user);
+            MessageBox.Show("Usuario guardado correctamente");
+        }
+
+        private void DtpBirthDate_ValueChanged(object sender, EventArgs e)
+        {
+           
+            }
+
+        private void guna2ControlBox3_Click(object sender, EventArgs e)
+        {
+
         }
     }
+    }
 
-}
+
