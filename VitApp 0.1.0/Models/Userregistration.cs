@@ -12,39 +12,44 @@ namespace VitApp_0._1._0.Classes
     {
         public static string rutaArchivo = "usuarios.txt";
 
-        public static void SaveUser(User user)
+        // Método para guardar un usuario en el archivo
+        public void SaveUser1(User user)
         {
-            using (StreamWriter writer = new StreamWriter(rutaArchivo, true))
+            using (StreamWriter writer = new StreamWriter(rutaArchivo, true)) // 'true' para agregar sin sobrescribir
             {
-                writer.WriteLine($"{user.Name},{user.LastName},{user.Phone},{user.BornDate},{user.Password},{user.VerifyPassword}{user.PhotoPath}");
+                writer.WriteLine($"{user.Id},{user.Name},{user.LastName},{user.BornDate},{user.Hight},{user.Weight},{user.Phone},{user.Password},{user.VerifyPassword},{user.PhotoPath},{user.PStatusUser}");
             }
         }
 
+        // Método para cargar usuarios desde el archivo
         public static List<User> UplaundUser()
         {
             var users = new List<User>();
 
-            if (File.Exists(rutaArchivo))
+            if (File.Exists(rutaArchivo)) // Verifica si el archivo existe
             {
                 using (StreamReader reader = new StreamReader(rutaArchivo))
                 {
                     string line;
-                    while ((line = reader.ReadLine()) != null)
+                    while ((line = reader.ReadLine()) != null) // Lee línea por línea
                     {
                         var data = line.Split(',');
 
-                        if (data.Length == 7) 
+                        if (data.Length == 11) // Asegúrate de que la línea tenga todos los campos
                         {
                             users.Add(new User
                             {
-                               
-                                Name = data[0],
-                                LastName = data[1],
+                                Id = int.Parse(data[0]),
+                                Name = data[1],
+                                LastName = data[2],
                                 BornDate = DateTime.Parse(data[3]),
-                                Password = data[4],
-                                VerifyPassword = data[5],
-                                PhotoPath = data[6],
-                                
+                                Hight = int.Parse(data[4]),
+                                Weight = int.Parse(data[5]),
+                                Phone = int.Parse(data[6]),
+                                Password = data[7],
+                                VerifyPassword = data[8],
+                                PhotoPath = data[9],
+                                PStatusUser = int.Parse(data[10])
                             });
                         }
                     }
@@ -55,23 +60,23 @@ namespace VitApp_0._1._0.Classes
         }
 
         // Buscar un usuario por nombre
-        public static User lookUser(string name)
+        public static User LookUser(string name)
         {
             var users = UplaundUser();
             return users.FirstOrDefault(u => u.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
         }
 
         // Actualizar un usuario por nombre
-        public static bool UpdateUser(string name, User newUser)
+        public bool UpdateUser(string name, User newUser)
         {
-            var users1 = UplaundUser();
+            var users = UplaundUser();
             bool updated = false;
 
-            for (int i = 0; i < users1.Count; i++)
+            for (int i = 0; i < users.Count; i++)
             {
-                if (users1[i].Name.Equals(name, StringComparison.OrdinalIgnoreCase))
+                if (users[i].Name.Equals(name, StringComparison.OrdinalIgnoreCase))
                 {
-                    users1[i] = newUser;
+                    users[i] = newUser;
                     updated = true;
                     break;
                 }
@@ -79,28 +84,22 @@ namespace VitApp_0._1._0.Classes
 
             if (updated)
             {
-                SaveUser(newUser); // Guardar los cambios en el archivo
+                SaveUser1(users); // Guardar toda la lista de usuarios nuevamente
             }
 
             return updated;
         }
 
         // Guardar toda la lista de usuarios nuevamente
-        public static void SaveUser(List<User> users)
+        public void SaveUser1(List<User> users)
         {
-            using (StreamWriter writer = new StreamWriter(rutaArchivo, false))
+            using (StreamWriter writer = new StreamWriter(rutaArchivo, false)) // 'false' para sobrescribir el archivo
             {
                 foreach (var user in users)
                 {
-                    writer.WriteLine($"{user.Name},{user.LastName},{user.Phone},{user.BornDate},{user.Password},{user.VerifyPassword}, {user.PStatusUser}");
+                    writer.WriteLine($"{user.Id},{user.Name},{user.LastName},{user.BornDate},{user.Hight},{user.Weight},{user.Phone},{user.Password},{user.VerifyPassword},{user.PhotoPath},{user.PStatusUser}");
                 }
             }
         }
-
-        internal void SaveUser1(User user)
-        {
-            
-        }
     }
 }
-

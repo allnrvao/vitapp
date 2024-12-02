@@ -34,41 +34,24 @@ namespace VitApp_0._1._0
             this.Close();
         }
 
+
         private void BtnLogIn_Click(object sender, EventArgs e)
         {
-            var user = Userregistration.UplaundUser();
-            foreach (var user in user)
+
+            string enteredName = TbUser.Text;
+            string enteredPassword = TbUserPassword.Text;
+
+            Userregistration userregistration = new Userregistration();
+
+            User foundUser = Userregistration.LookUser(enteredName);
+
+            if (foundUser != null && foundUser.Password == enteredPassword)
             {
-                if (user.Name == TbUser && user.Password == TbUserPassword)
-                {
-                    PrincipalScreen principalScreen = new PrincipalScreen();
-                    principalScreen.ShowDialog();
-
-                    return true;
-                }
-
-            }
-            return false;
-
-        }
-        private void guna2Button1_Click(object sender, EventArgs e)
-        {
-            string User = TbUsuario.Text;
-            string Pasword = TbPasword.Text;
-
-            if (string.IsNullOrWhiteSpace(User) | string.IsNullOrWhiteSpace(Pasword))
-            {
-                MessageBox.Show("Diguita tus datos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-
-            }
-            if (Login(User, Pasword))
-            {
-                this.Hide();
+                MessageBox.Show("Inicio de sesión exitoso", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
-                MessageBox.Show("Usuario no encontrado o contraseña incorrecta.");
+                MessageBox.Show("Usuario o contraseña incorrectos", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }

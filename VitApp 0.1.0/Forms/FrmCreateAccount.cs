@@ -22,11 +22,9 @@ namespace VitApp_0._1._0.Otros_forms
 {
     public partial class FrmCreateAccount : Form
     {
-
         public FrmCreateAccount()
         {
             InitializeComponent();
-
         }
 
         private void BtnBack_Click(object sender, EventArgs e)
@@ -40,7 +38,38 @@ namespace VitApp_0._1._0.Otros_forms
         private void BtnNext_Click(object sender, EventArgs e)
         {
             Validations validation = new Validations();
-            validation.SaveUserValidation();
+
+            // Crear un objeto User con los datos necesarios
+            User user = new User
+            {
+                LastName = TbLastName.Text,
+                Name = TbLastName.Text,
+                Password = TbLastName.Text,
+                VerifyPassword = TbVerifyPassword.Text
+            };
+
+            // Validar y convertir el número de teléfono
+            if (int.TryParse(TbPhone.Text, out int phone))
+            {
+                user.Phone = phone;
+            }
+            else
+            {
+                MessageBox.Show("El campo 'Teléfono' debe contener solo números.", "Error de validación", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+
+            try
+            {
+                // Pasar el objeto User al método SaveUserValidation
+                validation.SaveUserValidation(user);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Error durante la validación: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
 
             // Navegar a otro formulario
             this.Hide();
@@ -48,7 +77,6 @@ namespace VitApp_0._1._0.Otros_forms
             frmTest1.ShowDialog();
             this.Close();
         }
-
-
     }
+
 }

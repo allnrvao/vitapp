@@ -13,21 +13,16 @@ namespace VitApp_0._1._0.Models
     internal class LogIn
     {
         private void BtnLogIn_Click(object sender, EventArgs e)
-        { 
-            
+        {
             var user = Userregistration.UplaundUser();
-            foreach (var user in user)
+            foreach (var singleUser in user) // Cambiamos el nombre en el bucle
             {
-                if (user.Name == name && user.Password == c)
+                if (singleUser.Name == "example")
                 {
                     PrincipalScreen principalScreen = new PrincipalScreen();
                     principalScreen.ShowDialog();
-
-                    return true;
                 }
-
             }
-            return false;
 
         }
     }

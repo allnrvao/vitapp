@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|c:\\users\\jpnic\\onedrive\\desktop\\vitapp\\vitapp 0.1.0\\forms\\forms pantalla principal\\frmdiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmdiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\models\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:models\\validations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|c:\\users\\jpnic\\onedrive\\desktop\\vitapp\\vitapp 0.1.0\\forms\\frmprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\forms cuestionarios\\frmtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms cuestionarios\\frmtest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|c:\\users\\jpnic\\onedrive\\desktop\\vitapp\\vitapp 0.1.0\\forms\\forms pantalla principal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|c:\\users\\jpnic\\onedrive\\desktop\\vitapp\\vitapp 0.1.0\\forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,32 +35,44 @@
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmdiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmdiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmdiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\frmprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\principalscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmroutine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\frmcreateaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{949AB2C7-3161-4593-946D-3D30AED77205}|VitApp 1.csproj|solutionrelative:forms\\forms pantalla principal\\frmprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +94,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmDiet.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.Designer.cs",
-              "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmDiet.Designer.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.Designer.cs",
-              "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmDiet.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FrmCreateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmCreateAccount.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs",
+              "RelativeToolTip": "Forms\\FrmCreateAccount.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:50:48.056Z",
+              "WhenOpened": "2024-12-02T02:12:16.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FrmTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\forms cuestionarios\\FrmTest1.cs",
+              "RelativeDocumentMoniker": "Forms\\forms cuestionarios\\FrmTest1.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\forms cuestionarios\\FrmTest1.cs",
+              "RelativeToolTip": "Forms\\forms cuestionarios\\FrmTest1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:50:46.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Validations.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Models\\Validations.cs",
+              "RelativeDocumentMoniker": "Models\\Validations.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Models\\Validations.cs",
+              "RelativeToolTip": "Models\\Validations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:47:44.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Userregistration.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Models\\Userregistration.cs",
+              "RelativeDocumentMoniker": "Models\\Userregistration.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Models\\Userregistration.cs",
+              "RelativeToolTip": "Models\\Userregistration.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:41:37.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:41:33.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDiet.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
+              "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmDiet.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
+              "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmDiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:18:27.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmProfile.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
+              "RelativeToolTip": "Forms\\FrmProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:56:32.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmDiet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmDiet.Designer.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.Designer.cs",
+              "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmDiet.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:50:48.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "FrmProfile.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\FrmProfile.Designer.cs",
@@ -87,41 +201,35 @@
               "RelativeToolTip": "Forms\\FrmProfile.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:50:47.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2024-11-25T12:50:47.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LogIn.cs",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Models\\LogIn.cs",
               "RelativeDocumentMoniker": "Models\\LogIn.cs",
               "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Models\\LogIn.cs",
               "RelativeToolTip": "Models\\LogIn.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T14:19:54.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "FrmLogIn.cs",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmLogIn.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmLogIn.cs",
               "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmLogIn.cs",
               "RelativeToolTip": "Forms\\Forms Pantalla principal\\FrmLogIn.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwEoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T13:02:39.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T13:02:39.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "FrmDiet.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmDiet.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmDiet.cs",
@@ -132,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "FrmRoutine.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmRoutine.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmRoutine.cs",
@@ -143,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "FrmProfile.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmProfile.cs",
               "RelativeDocumentMoniker": "Forms\\FrmProfile.cs",
@@ -154,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "PrincipalScreen.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\PrincipalScreen.cs",
               "RelativeDocumentMoniker": "Forms\\PrincipalScreen.cs",
@@ -165,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "FrmLogIn.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmLogIn.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmLogIn.cs",
@@ -176,18 +284,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "FrmCreateAccount.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs",
               "RelativeDocumentMoniker": "Forms\\FrmCreateAccount.cs",
               "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\FrmCreateAccount.cs [Dise\u00F1o]",
               "RelativeToolTip": "Forms\\FrmCreateAccount.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T10:05:24.839Z"
+              "WhenOpened": "2024-11-22T10:05:24.839Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "FrmProgress.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\vitapp\\VitApp 0.1.0\\Forms\\Forms Pantalla principal\\FrmProgress.cs",
               "RelativeDocumentMoniker": "Forms\\Forms Pantalla principal\\FrmProgress.cs",
